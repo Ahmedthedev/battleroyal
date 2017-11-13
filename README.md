@@ -2,18 +2,6 @@
 
 run -> 
 
-
-
-2017-11-13 12:29:19.492810+0100 BattleRoyal[13124:6427223] [DYMTLInitPlatform] platform initialization successful
-ROUND 0
-
-Personnage3 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 52513 soit 100%  à  Personnage1
-
-
 ROUND 1
 
 Personnage2 attaque -> Personnage1
