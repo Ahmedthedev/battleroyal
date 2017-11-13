@@ -1,581 +1,604 @@
 # battleroyal
 
 run -> 
-
 ROUND 1
-
-Personnage2 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 51952 soit 68%  à  Personnage1
-
-
-ROUND 2
-
-Personnage10 attaque -> Personnage2
-Personnage2 ne réussit pas à ce défendre
-Personnage2 perd
-2433 de vie
- il ne reste plus que 35577 soit 41%  à  Personnage2
-
-
-ROUND 3
-
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 51672 soit 50%  à  Personnage1
-
-
-ROUND 4
-
-Personnage1 attaque -> Personnage6
-mais Personnage6 à réussi à ce défendre
-Personnage6 perd
-1158 de vie
- il ne reste plus que 43892 soit 41%  à  Personnage6
-
-
-ROUND 5
-
-l'attaque de Personnage3 sur Personnage4 n'a pas aboutie
-
-
-ROUND 6
-
-Personnage10 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 51034 soit 59%  à  Personnage5
-
-
-ROUND 7
-
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
-
-
-ROUND 8
-
-l'attaque de Personnage4 sur Personnage2 n'a pas aboutie
-
-
-ROUND 9
-
-Personnage4 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 51111 soit 43%  à  Personnage1
-
-
-ROUND 10
-
-l'attaque de Personnage2 sur Personnage3 n'a pas aboutie
-
-
-ROUND 11
-
-Personnage7 attaque -> Personnage3
-Personnage3 ne réussit pas à ce défendre
-Personnage3 perd
-2059 de vie
- il ne reste plus que 24183 soit 23%  à  Personnage3
-
-
-ROUND 12
-
-l'attaque de Personnage1 sur Personnage8 n'a pas aboutie
-
-
-ROUND 13
-
-Personnage2 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 50550 soit 66%  à  Personnage1
-
-
-ROUND 14
-
-l'attaque de Personnage3 sur Personnage7 n'a pas aboutie
-
-
-ROUND 15
-
-Personnage8 attaque -> Personnage3
-mais Personnage3 à réussi à ce défendre
-Personnage3 perd
-1029 de vie
- il ne reste plus que 23154 soit 30%  à  Personnage3
-
-
-ROUND 16
-
-Personnage7 attaque -> Personnage2
-Personnage2 ne réussit pas à ce défendre
-Personnage2 perd
-2433 de vie
- il ne reste plus que 33144 soit 31%  à  Personnage2
-
-
-ROUND 17
-
-Personnage1 attaque -> Personnage6
-mais Personnage6 à réussi à ce défendre
-Personnage6 perd
-1158 de vie
- il ne reste plus que 42734 soit 40%  à  Personnage6
-
-
-ROUND 18
-
-Personnage8 attaque -> Personnage3
-mais Personnage3 à réussi à ce défendre
-Personnage3 perd
-1029 de vie
- il ne reste plus que 22125 soit 29%  à  Personnage3
-
-
-ROUND 19
-
-Personnage7 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 42687 soit 40%  à  Personnage9
-
-
-ROUND 20
 
 Personnage2 attaque -> Personnage9
 mais Personnage9 à réussi à ce défendre
 Personnage9 perd
-318 de vie
- il ne reste plus que 42369 soit 55%  à  Personnage9
+729 de vie
+ il ne reste plus que 38859 soit 36%  à  Personnage9
 
 
-ROUND 21
+ROUND 2
 
-l'attaque de Personnage3 sur Personnage1 n'a pas aboutie
-
-
-ROUND 22
-
-l'attaque de Personnage7 sur Personnage1 n'a pas aboutie
-
-
-ROUND 23
-
-l'attaque de Personnage6 sur Personnage1 n'a pas aboutie
-
-
-ROUND 24
-
-Personnage8 attaque -> Personnage10
-Personnage10 ne réussit pas à ce défendre
-Personnage10 perd
-1892 de vie
- il ne reste plus que 40710 soit 53%  à  Personnage10
-
-
-ROUND 25
-
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 50754 soit 47%  à  Personnage5
-
-
-ROUND 26
-
-l'attaque de Personnage4 sur Personnage3 n'a pas aboutie
-
-
-ROUND 27
-
-Personnage3 attaque -> Personnage2
-mais Personnage2 à réussi à ce défendre
-Personnage2 perd
-1216 de vie
- il ne reste plus que 31928 soit 60%  à  Personnage2
-
-
-ROUND 28
-
-Personnage10 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 57885 soit 67%  à  Personnage4
-
-
-ROUND 29
-
-Personnage10 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 41732 soit 48%  à  Personnage9
-
-
-ROUND 30
-
-l'attaque de Personnage4 sur Personnage7 n'a pas aboutie
-
-
-ROUND 31
-
-l'attaque de Personnage8 sur Personnage7 n'a pas aboutie
-
-
-ROUND 32
-
-l'attaque de Personnage6 sur Personnage4 n'a pas aboutie
-
-
-ROUND 33
-
-l'attaque de Personnage10 sur Personnage5 n'a pas aboutie
-
-
-ROUND 34
-
-l'attaque de Personnage6 sur Personnage10 n'a pas aboutie
-
-
-ROUND 35
-
-l'attaque de Personnage1 sur Personnage7 n'a pas aboutie
-
-
-ROUND 36
-
-Personnage8 attaque -> Personnage6
-Personnage6 ne réussit pas à ce défendre
-Personnage6 perd
-2316 de vie
- il ne reste plus que 40418 soit 53%  à  Personnage6
-
-
-ROUND 37
-
-l'attaque de Personnage8 sur Personnage7 n'a pas aboutie
-
-
-ROUND 38
-
-Personnage7 attaque -> Personnage3
-mais Personnage3 à réussi à ce défendre
-Personnage3 perd
-1029 de vie
- il ne reste plus que 21096 soit 20%  à  Personnage3
-
-
-ROUND 39
-
-Personnage7 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 41414 soit 39%  à  Personnage9
-
-
-ROUND 40
-
-l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
-
-
-ROUND 41
-
-Personnage6 attaque -> Personnage1
+Personnage7 attaque -> Personnage1
 Personnage1 ne réussit pas à ce défendre
 Personnage1 perd
-561 de vie
- il ne reste plus que 49989 soit 55%  à  Personnage1
+1458 de vie
+ il ne reste plus que 27061 soit 24%  à  Personnage1
 
 
-ROUND 42
+ROUND 3
 
 l'attaque de Personnage8 sur Personnage2 n'a pas aboutie
 
 
-ROUND 43
+ROUND 4
 
-Personnage7 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 50474 soit 48%  à  Personnage5
+l'attaque de Personnage6 sur Personnage8 n'a pas aboutie
 
 
-ROUND 44
+ROUND 5
 
-l'attaque de Personnage10 sur Personnage5 n'a pas aboutie
-
-
-ROUND 45
-
-l'attaque de Personnage4 sur Personnage3 n'a pas aboutie
-
-
-ROUND 46
-
-l'attaque de Personnage4 sur Personnage3 n'a pas aboutie
-
-
-ROUND 47
-
-l'attaque de Personnage1 sur Personnage9 n'a pas aboutie
-
-
-ROUND 48
-
-Personnage5 attaque -> Personnage2
-Personnage2 ne réussit pas à ce défendre
-Personnage2 perd
-2433 de vie
- il ne reste plus que 29495 soit 28%  à  Personnage2
-
-
-ROUND 49
-
-l'attaque de Personnage4 sur Personnage6 n'a pas aboutie
-
-
-ROUND 50
-
-Personnage9 attaque -> Personnage6
-Personnage6 ne réussit pas à ce défendre
-Personnage6 perd
-2316 de vie
- il ne reste plus que 38102 soit 44%  à  Personnage6
-
-
-ROUND 51
-
-Personnage3 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 57209 soit 109%  à  Personnage4
-
-
-ROUND 52
-
-Personnage2 attaque -> Personnage7
-Personnage7 ne réussit pas à ce défendre
-Personnage7 perd
-2059 de vie
- il ne reste plus que 50173 soit 65%  à  Personnage7
-
-
-ROUND 53
-
-l'attaque de Personnage1 sur Personnage3 n'a pas aboutie
-
-
-ROUND 54
-
-l'attaque de Personnage3 sur Personnage2 n'a pas aboutie
-
-
-ROUND 55
-
-l'attaque de Personnage1 sur Personnage4 n'a pas aboutie
-
-
-ROUND 56
-
-Personnage3 attaque -> Personnage6
-mais Personnage6 à réussi à ce défendre
-Personnage6 perd
-1158 de vie
- il ne reste plus que 36944 soit 70%  à  Personnage6
-
-
-ROUND 57
-
-l'attaque de Personnage6 sur Personnage5 n'a pas aboutie
-
-
-ROUND 58
-
-l'attaque de Personnage7 sur Personnage5 n'a pas aboutie
-
-
-ROUND 59
-
-Personnage4 attaque -> Personnage3
-mais Personnage3 à réussi à ce défendre
-Personnage3 perd
-1029 de vie
- il ne reste plus que 20067 soit 16%  à  Personnage3
-
-
-ROUND 60
-
-Personnage5 attaque -> Personnage2
-Personnage2 ne réussit pas à ce défendre
-Personnage2 perd
-2433 de vie
- il ne reste plus que 27062 soit 26%  à  Personnage2
-
-
-ROUND 61
-
-Personnage10 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
+Personnage2 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
 Personnage9 perd
-637 de vie
- il ne reste plus que 40777 soit 47%  à  Personnage9
+729 de vie
+ il ne reste plus que 38130 soit 35%  à  Personnage9
 
 
-ROUND 62
+ROUND 6
 
-l'attaque de Personnage5 sur Personnage6 n'a pas aboutie
-
-
-ROUND 63
-
-l'attaque de Personnage10 sur Personnage1 n'a pas aboutie
-
-
-ROUND 64
-
-Personnage7 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 56533 soit 54%  à  Personnage4
-
-
-ROUND 65
-
-l'attaque de Personnage7 sur Personnage8 n'a pas aboutie
-
-
-ROUND 66
-
-Personnage8 attaque -> Personnage6
-mais Personnage6 à réussi à ce défendre
-Personnage6 perd
-1158 de vie
- il ne reste plus que 35786 soit 47%  à  Personnage6
-
-
-ROUND 67
-
-Personnage8 attaque -> Personnage3
+Personnage1 attaque -> Personnage3
 Personnage3 ne réussit pas à ce défendre
 Personnage3 perd
-2059 de vie
- il ne reste plus que 18008 soit 23%  à  Personnage3
+2386 de vie
+ il ne reste plus que 41483 soit 72%  à  Personnage3
 
 
-ROUND 68
+ROUND 7
 
-Personnage9 attaque -> Personnage7
+Personnage2 attaque -> Personnage9
+Personnage9 ne réussit pas à ce défendre
+Personnage9 perd
+1458 de vie
+ il ne reste plus que 36672 soit 34%  à  Personnage9
+
+
+ROUND 8
+
+Personnage3 attaque -> Personnage7
 Personnage7 ne réussit pas à ce défendre
 Personnage7 perd
-2059 de vie
- il ne reste plus que 48114 soit 55%  à  Personnage7
+1458 de vie
+ il ne reste plus que 53475 soit 60%  à  Personnage7
 
 
-ROUND 69
+ROUND 9
 
-Personnage9 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 49709 soit 57%  à  Personnage1
-
-
-ROUND 70
-
-Personnage6 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 49913 soit 55%  à  Personnage5
+Personnage1 attaque -> Personnage9
+Personnage9 ne réussit pas à ce défendre
+Personnage9 perd
+1458 de vie
+ il ne reste plus que 35214 soit 61%  à  Personnage9
 
 
-ROUND 71
+ROUND 10
+
+Personnage3 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 34010 soit 38%  à  Personnage6
+
+
+ROUND 11
+
+Personnage4 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 54917 soit 95%  à  Personnage10
+
+
+ROUND 12
+
+Personnage5 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 33360 soit 29%  à  Personnage6
+
+
+ROUND 13
+
+Personnage1 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 32710 soit 57%  à  Personnage6
+
+
+ROUND 14
+
+Personnage5 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 28385 soit 25%  à  Personnage4
+
+
+ROUND 15
 
 l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
 
 
-ROUND 72
+ROUND 16
+
+l'attaque de Personnage6 sur Personnage1 n'a pas aboutie
+
+
+ROUND 17
+
+l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
+
+
+ROUND 18
+
+Personnage1 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 52294 soit 91%  à  Personnage8
+
+
+ROUND 19
+
+Personnage2 attaque -> Personnage3
+mais Personnage3 à réussi à ce défendre
+Personnage3 perd
+1193 de vie
+ il ne reste plus que 40290 soit 37%  à  Personnage3
+
+
+ROUND 20
+
+Personnage8 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
+Personnage9 perd
+729 de vie
+ il ne reste plus que 34485 soit 32%  à  Personnage9
+
+
+ROUND 21
+
+Personnage4 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 56289 soit 98%  à  Personnage5
+
+
+ROUND 22
+
+l'attaque de Personnage6 sur Personnage3 n'a pas aboutie
+
+
+ROUND 23
+
+l'attaque de Personnage3 sur Personnage1 n'a pas aboutie
+
+
+ROUND 24
+
+l'attaque de Personnage10 sur Personnage5 n'a pas aboutie
+
+
+ROUND 25
+
+l'attaque de Personnage3 sur Personnage8 n'a pas aboutie
+
+
+ROUND 26
+
+l'attaque de Personnage8 sur Personnage2 n'a pas aboutie
+
+
+ROUND 27
+
+l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+
+
+ROUND 28
+
+l'attaque de Personnage10 sur Personnage6 n'a pas aboutie
+
+
+ROUND 29
+
+Personnage7 attaque -> Personnage3
+mais Personnage3 à réussi à ce défendre
+Personnage3 perd
+1193 de vie
+ il ne reste plus que 39097 soit 35%  à  Personnage3
+
+
+ROUND 30
+
+l'attaque de Personnage7 sur Personnage5 n'a pas aboutie
+
+
+ROUND 31
+
+Personnage5 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 32385 soit 28%  à  Personnage6
+
+
+ROUND 32
+
+Personnage1 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 53245 soit 93%  à  Personnage2
+
+
+ROUND 33
+
+Personnage5 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 27930 soit 24%  à  Personnage4
+
+
+ROUND 34
+
+Personnage7 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 53018 soit 48%  à  Personnage2
+
+
+ROUND 35
+
+Personnage10 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 52563 soit 47%  à  Personnage2
+
+
+ROUND 36
+
+l'attaque de Personnage8 sur Personnage10 n'a pas aboutie
+
+
+ROUND 37
+
+Personnage9 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 54481 soit 68%  à  Personnage10
+
+
+ROUND 38
+
+Personnage3 attaque -> Personnage1
+Personnage1 ne réussit pas à ce défendre
+Personnage1 perd
+1458 de vie
+ il ne reste plus que 25603 soit 29%  à  Personnage1
+
+
+ROUND 39
+
+l'attaque de Personnage1 sur Personnage2 n'a pas aboutie
+
+
+ROUND 40
+
+l'attaque de Personnage8 sur Personnage4 n'a pas aboutie
+
+
+ROUND 41
 
 l'attaque de Personnage4 sur Personnage6 n'a pas aboutie
 
 
-ROUND 73
+ROUND 42
+
+Personnage2 attaque -> Personnage3
+mais Personnage3 à réussi à ce défendre
+Personnage3 perd
+1193 de vie
+ il ne reste plus que 37904 soit 35%  à  Personnage3
+
+
+ROUND 43
+
+Personnage8 attaque -> Personnage1
+mais Personnage1 à réussi à ce défendre
+Personnage1 perd
+729 de vie
+ il ne reste plus que 24874 soit 23%  à  Personnage1
+
+
+ROUND 44
+
+Personnage5 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 31735 soit 27%  à  Personnage6
+
+
+ROUND 45
 
 Personnage7 attaque -> Personnage9
 Personnage9 ne réussit pas à ce défendre
 Personnage9 perd
-637 de vie
- il ne reste plus que 40140 soit 38%  à  Personnage9
+1458 de vie
+ il ne reste plus que 33027 soit 30%  à  Personnage9
 
 
-ROUND 74
+ROUND 46
 
-l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
-
-
-ROUND 75
-
-Personnage4 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 37140 soit 31%  à  Personnage8
+Personnage9 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 53608 soit 67%  à  Personnage10
 
 
-ROUND 76
+ROUND 47
 
-l'attaque de Personnage10 sur Personnage4 n'a pas aboutie
+Personnage3 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 53172 soit 60%  à  Personnage10
 
 
-ROUND 77
+ROUND 48
 
-Personnage10 attaque -> Personnage7
-Personnage7 ne réussit pas à ce défendre
+Personnage6 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 52736 soit 76%  à  Personnage10
+
+
+ROUND 49
+
+Personnage9 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 27475 soit 34%  à  Personnage4
+
+
+ROUND 50
+
+l'attaque de Personnage5 sur Personnage3 n'a pas aboutie
+
+
+ROUND 51
+
+Personnage9 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 55834 soit 70%  à  Personnage5
+
+
+ROUND 52
+
+Personnage9 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 52336 soit 66%  à  Personnage2
+
+
+ROUND 53
+
+Personnage9 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 27248 soit 34%  à  Personnage4
+
+
+ROUND 54
+
+Personnage2 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
 Personnage7 perd
-2059 de vie
- il ne reste plus que 46055 soit 54%  à  Personnage7
+729 de vie
+ il ne reste plus que 52746 soit 49%  à  Personnage7
 
 
-ROUND 78
+ROUND 55
+
+l'attaque de Personnage7 sur Personnage9 n'a pas aboutie
+
+
+ROUND 56
+
+Personnage9 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 31085 soit 39%  à  Personnage6
+
+
+ROUND 57
+
+l'attaque de Personnage1 sur Personnage3 n'a pas aboutie
+
+
+ROUND 58
+
+Personnage2 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 30435 soit 28%  à  Personnage6
+
+
+ROUND 59
+
+Personnage8 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
+Personnage9 perd
+729 de vie
+ il ne reste plus que 32298 soit 30%  à  Personnage9
+
+
+ROUND 60
+
+Personnage10 attaque -> Personnage3
+mais Personnage3 à réussi à ce défendre
+Personnage3 perd
+1193 de vie
+ il ne reste plus que 36711 soit 33%  à  Personnage3
+
+
+ROUND 61
+
+l'attaque de Personnage4 sur Personnage10 n'a pas aboutie
+
+
+ROUND 62
+
+Personnage2 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
+Personnage9 perd
+729 de vie
+ il ne reste plus que 31569 soit 29%  à  Personnage9
+
+
+ROUND 63
+
+l'attaque de Personnage2 sur Personnage6 n'a pas aboutie
+
+
+ROUND 64
+
+Personnage8 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 55607 soit 52%  à  Personnage5
+
+
+ROUND 65
+
+l'attaque de Personnage7 sur Personnage3 n'a pas aboutie
+
+
+ROUND 66
+
+Personnage6 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 55380 soit 79%  à  Personnage5
+
+
+ROUND 67
+
+l'attaque de Personnage1 sur Personnage8 n'a pas aboutie
+
+
+ROUND 68
+
+l'attaque de Personnage3 sur Personnage9 n'a pas aboutie
+
+
+ROUND 69
 
 Personnage8 attaque -> Personnage5
 Personnage5 ne réussit pas à ce défendre
 Personnage5 perd
-561 de vie
- il ne reste plus que 49352 soit 65%  à  Personnage5
+455 de vie
+ il ne reste plus que 54925 soit 51%  à  Personnage5
+
+
+ROUND 70
+
+l'attaque de Personnage2 sur Personnage9 n'a pas aboutie
+
+
+ROUND 71
+
+l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
+
+
+ROUND 72
+
+Personnage1 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
+Personnage9 perd
+729 de vie
+ il ne reste plus que 30840 soit 54%  à  Personnage9
+
+
+ROUND 73
+
+Personnage7 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 27021 soit 24%  à  Personnage4
+
+
+ROUND 74
+
+Personnage5 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 26794 soit 23%  à  Personnage4
+
+
+ROUND 75
+
+Personnage6 attaque -> Personnage3
+mais Personnage3 à réussi à ce défendre
+Personnage3 perd
+1193 de vie
+ il ne reste plus que 35518 soit 51%  à  Personnage3
+
+
+ROUND 76
+
+l'attaque de Personnage4 sur Personnage10 n'a pas aboutie
+
+
+ROUND 77
+
+Personnage1 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 26339 soit 46%  à  Personnage4
+
+
+ROUND 78
+
+l'attaque de Personnage2 sur Personnage7 n'a pas aboutie
 
 
 ROUND 79
 
-Personnage2 attaque -> Personnage10
-mais Personnage10 à réussi à ce défendre
-Personnage10 perd
-946 de vie
- il ne reste plus que 39764 soit 52%  à  Personnage10
+l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
 
 
 ROUND 80
 
-Personnage5 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 39822 soit 38%  à  Personnage9
+Personnage3 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 51858 soit 59%  à  Personnage8
 
 
 ROUND 81
@@ -585,1647 +608,1663 @@ l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
 
 ROUND 82
 
-l'attaque de Personnage4 sur Personnage10 n'a pas aboutie
+l'attaque de Personnage6 sur Personnage2 n'a pas aboutie
 
 
 ROUND 83
 
-l'attaque de Personnage3 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage7 sur Personnage8 n'a pas aboutie
 
 
 ROUND 84
 
-Personnage8 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 49148 soit 65%  à  Personnage1
+Personnage2 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 50985 soit 47%  à  Personnage8
 
 
 ROUND 85
 
-Personnage9 attaque -> Personnage10
-mais Personnage10 à réussi à ce défendre
-Personnage10 perd
-946 de vie
- il ne reste plus que 38818 soit 45%  à  Personnage10
+Personnage8 attaque -> Personnage3
+mais Personnage3 à réussi à ce défendre
+Personnage3 perd
+1193 de vie
+ il ne reste plus que 34325 soit 32%  à  Personnage3
 
 
 ROUND 86
 
-l'attaque de Personnage7 sur Personnage10 n'a pas aboutie
+Personnage5 attaque -> Personnage1
+mais Personnage1 à réussi à ce défendre
+Personnage1 perd
+729 de vie
+ il ne reste plus que 24145 soit 21%  à  Personnage1
 
 
 ROUND 87
 
-Personnage4 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 36503 soit 30%  à  Personnage8
+l'attaque de Personnage7 sur Personnage9 n'a pas aboutie
 
 
 ROUND 88
 
-Personnage1 attaque -> Personnage4
+Personnage5 attaque -> Personnage4
 Personnage4 ne réussit pas à ce défendre
 Personnage4 perd
-1352 de vie
- il ne reste plus que 55181 soit 51%  à  Personnage4
+455 de vie
+ il ne reste plus que 25884 soit 22%  à  Personnage4
 
 
 ROUND 89
 
-Personnage4 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 39185 soit 33%  à  Personnage9
+Personnage2 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 51288 soit 47%  à  Personnage7
 
 
 ROUND 90
 
-l'attaque de Personnage5 sur Personnage6 n'a pas aboutie
+l'attaque de Personnage4 sur Personnage1 n'a pas aboutie
 
 
 ROUND 91
 
-Personnage7 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 48587 soit 46%  à  Personnage1
+l'attaque de Personnage2 sur Personnage4 n'a pas aboutie
 
 
 ROUND 92
 
-Personnage1 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 36185 soit 34%  à  Personnage8
+Personnage5 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 50559 soit 44%  à  Personnage7
 
 
 ROUND 93
 
-Personnage9 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 35867 soit 41%  à  Personnage8
+l'attaque de Personnage1 sur Personnage4 n'a pas aboutie
 
 
 ROUND 94
 
-l'attaque de Personnage5 sur Personnage6 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage9 n'a pas aboutie
 
 
 ROUND 95
 
-Personnage10 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 49072 soit 57%  à  Personnage5
+Personnage9 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 50549 soit 63%  à  Personnage8
 
 
 ROUND 96
 
-Personnage8 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 48307 soit 63%  à  Personnage1
+Personnage9 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 49101 soit 62%  à  Personnage7
 
 
 ROUND 97
 
-Personnage2 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 35230 soit 46%  à  Personnage8
+Personnage5 attaque -> Personnage3
+mais Personnage3 à réussi à ce défendre
+Personnage3 perd
+1193 de vie
+ il ne reste plus que 33132 soit 29%  à  Personnage3
 
 
 ROUND 98
 
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage3 sur Personnage5 n'a pas aboutie
 
 
 ROUND 99
 
-Personnage3 attaque -> Personnage2
-Personnage2 ne réussit pas à ce défendre
-Personnage2 perd
-2433 de vie
- il ne reste plus que 24629 soit 46%  à  Personnage2
+l'attaque de Personnage3 sur Personnage1 n'a pas aboutie
 
 
 ROUND 100
 
-Personnage4 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 38548 soit 32%  à  Personnage9
+Personnage7 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 51863 soit 47%  à  Personnage10
 
 
 ROUND 101
 
-l'attaque de Personnage7 sur Personnage3 n'a pas aboutie
+Personnage9 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 47643 soit 60%  à  Personnage7
 
 
 ROUND 102
 
-l'attaque de Personnage6 sur Personnage1 n'a pas aboutie
+Personnage2 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 46914 soit 43%  à  Personnage7
 
 
 ROUND 103
 
-Personnage2 attaque -> Personnage10
-Personnage10 ne réussit pas à ce défendre
-Personnage10 perd
-1892 de vie
- il ne reste plus que 36926 soit 48%  à  Personnage10
+Personnage7 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 25657 soit 23%  à  Personnage4
 
 
 ROUND 104
 
-l'attaque de Personnage6 sur Personnage10 n'a pas aboutie
+Personnage3 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 29785 soit 33%  à  Personnage6
 
 
 ROUND 105
 
-l'attaque de Personnage3 sur Personnage6 n'a pas aboutie
+l'attaque de Personnage7 sur Personnage1 n'a pas aboutie
 
 
 ROUND 106
 
-Personnage8 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
+Personnage5 attaque -> Personnage1
+Personnage1 ne réussit pas à ce défendre
 Personnage1 perd
-280 de vie
- il ne reste plus que 48027 soit 63%  à  Personnage1
+1458 de vie
+ il ne reste plus que 22687 soit 19%  à  Personnage1
 
 
 ROUND 107
 
-Personnage3 attaque -> Personnage9
+Personnage6 attaque -> Personnage9
 Personnage9 ne réussit pas à ce défendre
 Personnage9 perd
-637 de vie
- il ne reste plus que 37911 soit 72%  à  Personnage9
+1458 de vie
+ il ne reste plus que 29382 soit 42%  à  Personnage9
 
 
 ROUND 108
 
-Personnage10 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 54505 soit 63%  à  Personnage4
+l'attaque de Personnage10 sur Personnage9 n'a pas aboutie
 
 
 ROUND 109
 
-l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
+l'attaque de Personnage6 sur Personnage2 n'a pas aboutie
 
 
 ROUND 110
 
-l'attaque de Personnage4 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage1 sur Personnage6 n'a pas aboutie
 
 
 ROUND 111
 
-Personnage8 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 48511 soit 64%  à  Personnage5
+l'attaque de Personnage1 sur Personnage7 n'a pas aboutie
 
 
 ROUND 112
 
-Personnage5 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 34593 soit 33%  à  Personnage8
+l'attaque de Personnage4 sur Personnage6 n'a pas aboutie
 
 
 ROUND 113
 
-l'attaque de Personnage3 sur Personnage2 n'a pas aboutie
+Personnage3 attaque -> Personnage1
+Personnage1 ne réussit pas à ce défendre
+Personnage1 perd
+1458 de vie
+ il ne reste plus que 21229 soit 24%  à  Personnage1
 
 
 ROUND 114
 
-Personnage2 attaque -> Personnage3
+Personnage8 attaque -> Personnage3
 mais Personnage3 à réussi à ce défendre
 Personnage3 perd
-1029 de vie
- il ne reste plus que 16979 soit 22%  à  Personnage3
+1193 de vie
+ il ne reste plus que 31939 soit 30%  à  Personnage3
 
 
 ROUND 115
 
-l'attaque de Personnage6 sur Personnage10 n'a pas aboutie
+Personnage1 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 52109 soit 91%  à  Personnage2
 
 
 ROUND 116
 
-Personnage1 attaque -> Personnage6
-mais Personnage6 à réussi à ce défendre
-Personnage6 perd
-1158 de vie
- il ne reste plus que 34628 soit 32%  à  Personnage6
+Personnage2 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 45456 soit 42%  à  Personnage7
 
 
 ROUND 117
 
-l'attaque de Personnage3 sur Personnage9 n'a pas aboutie
+Personnage2 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 49676 soit 46%  à  Personnage8
 
 
 ROUND 118
 
-Personnage5 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 33956 soit 33%  à  Personnage8
+Personnage5 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 43998 soit 38%  à  Personnage7
 
 
 ROUND 119
 
-Personnage10 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 53153 soit 62%  à  Personnage4
+l'attaque de Personnage1 sur Personnage7 n'a pas aboutie
 
 
 ROUND 120
 
-l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+Personnage2 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 25202 soit 23%  à  Personnage4
 
 
 ROUND 121
 
-Personnage9 attaque -> Personnage10
-Personnage10 ne réussit pas à ce défendre
-Personnage10 perd
-1892 de vie
- il ne reste plus que 35034 soit 40%  à  Personnage10
+Personnage2 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 24747 soit 23%  à  Personnage4
 
 
 ROUND 122
 
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
+l'attaque de Personnage3 sur Personnage5 n'a pas aboutie
 
 
 ROUND 123
 
-Personnage1 attaque -> Personnage2
-Personnage2 ne réussit pas à ce défendre
-Personnage2 perd
-2433 de vie
- il ne reste plus que 22196 soit 20%  à  Personnage2
+l'attaque de Personnage6 sur Personnage1 n'a pas aboutie
 
 
 ROUND 124
 
-l'attaque de Personnage5 sur Personnage10 n'a pas aboutie
+Personnage3 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 51427 soit 58%  à  Personnage10
 
 
 ROUND 125
 
-Personnage4 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 47466 soit 40%  à  Personnage1
+l'attaque de Personnage9 sur Personnage4 n'a pas aboutie
 
 
 ROUND 126
 
-Personnage6 attaque -> Personnage10
-Personnage10 ne réussit pas à ce défendre
-Personnage10 perd
-1892 de vie
- il ne reste plus que 33142 soit 36%  à  Personnage10
+l'attaque de Personnage6 sur Personnage9 n'a pas aboutie
 
 
 ROUND 127
 
-Personnage1 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 52477 soit 49%  à  Personnage4
+l'attaque de Personnage1 sur Personnage8 n'a pas aboutie
 
 
 ROUND 128
 
-Personnage3 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 45026 soit 85%  à  Personnage7
+Personnage7 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 24292 soit 22%  à  Personnage4
 
 
 ROUND 129
 
-Personnage5 attaque -> Personnage3
-Personnage3 ne réussit pas à ce défendre
-Personnage3 perd
-2059 de vie
- il ne reste plus que 14920 soit 14%  à  Personnage3
+l'attaque de Personnage10 sur Personnage4 n'a pas aboutie
 
 
 ROUND 130
 
-Personnage8 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 47950 soit 63%  à  Personnage5
+l'attaque de Personnage1 sur Personnage6 n'a pas aboutie
 
 
 ROUND 131
 
-l'attaque de Personnage5 sur Personnage10 n'a pas aboutie
+Personnage10 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 42540 soit 38%  à  Personnage7
 
 
 ROUND 132
 
-l'attaque de Personnage6 sur Personnage10 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage9 n'a pas aboutie
 
 
 ROUND 133
 
-Personnage3 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 33638 soit 64%  à  Personnage8
+Personnage4 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 54470 soit 95%  à  Personnage5
 
 
 ROUND 134
 
-l'attaque de Personnage2 sur Personnage9 n'a pas aboutie
+Personnage6 attaque -> Personnage9
+Personnage9 ne réussit pas à ce défendre
+Personnage9 perd
+1458 de vie
+ il ne reste plus que 27924 soit 40%  à  Personnage9
 
 
 ROUND 135
 
-l'attaque de Personnage6 sur Personnage2 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage10 n'a pas aboutie
 
 
 ROUND 136
 
-Personnage3 attaque -> Personnage6
-Personnage6 ne réussit pas à ce défendre
-Personnage6 perd
-2316 de vie
- il ne reste plus que 32312 soit 61%  à  Personnage6
+l'attaque de Personnage8 sur Personnage9 n'a pas aboutie
 
 
 ROUND 137
 
-l'attaque de Personnage6 sur Personnage2 n'a pas aboutie
+l'attaque de Personnage1 sur Personnage9 n'a pas aboutie
 
 
 ROUND 138
 
-Personnage9 attaque -> Personnage6
-Personnage6 ne réussit pas à ce défendre
-Personnage6 perd
-2316 de vie
- il ne reste plus que 29996 soit 34%  à  Personnage6
+Personnage5 attaque -> Personnage3
+Personnage3 ne réussit pas à ce défendre
+Personnage3 perd
+2386 de vie
+ il ne reste plus que 29553 soit 26%  à  Personnage3
 
 
 ROUND 139
 
-Personnage4 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 37593 soit 31%  à  Personnage9
+l'attaque de Personnage7 sur Personnage5 n'a pas aboutie
 
 
 ROUND 140
 
-Personnage4 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 37275 soit 31%  à  Personnage9
+Personnage3 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 54243 soit 61%  à  Personnage5
 
 
 ROUND 141
 
-Personnage7 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 36957 soit 35%  à  Personnage9
+l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
 
 
 ROUND 142
 
-Personnage1 attaque -> Personnage3
+Personnage6 attaque -> Personnage3
 Personnage3 ne réussit pas à ce défendre
 Personnage3 perd
-2059 de vie
- il ne reste plus que 12861 soit 12%  à  Personnage3
+2386 de vie
+ il ne reste plus que 27167 soit 39%  à  Personnage3
 
 
 ROUND 143
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 47670 soit 44%  à  Personnage5
+Personnage5 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
+Personnage9 perd
+729 de vie
+ il ne reste plus que 27195 soit 23%  à  Personnage9
 
 
 ROUND 144
 
-l'attaque de Personnage2 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage3 sur Personnage10 n'a pas aboutie
 
 
 ROUND 145
 
-l'attaque de Personnage7 sur Personnage3 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage3 n'a pas aboutie
 
 
 ROUND 146
 
-Personnage1 attaque -> Personnage10
-Personnage10 ne réussit pas à ce défendre
-Personnage10 perd
-1892 de vie
- il ne reste plus que 31250 soit 29%  à  Personnage10
+Personnage1 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 53788 soit 94%  à  Personnage5
 
 
 ROUND 147
 
-Personnage6 attaque -> Personnage2
-mais Personnage2 à réussi à ce défendre
-Personnage2 perd
-1216 de vie
- il ne reste plus que 20980 soit 23%  à  Personnage2
+l'attaque de Personnage6 sur Personnage3 n'a pas aboutie
 
 
 ROUND 148
 
-l'attaque de Personnage3 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage3 sur Personnage5 n'a pas aboutie
 
 
 ROUND 149
 
-Personnage8 attaque -> Personnage2
-Personnage2 ne réussit pas à ce défendre
-Personnage2 perd
-2433 de vie
- il ne reste plus que 18547 soit 24%  à  Personnage2
+l'attaque de Personnage7 sur Personnage5 n'a pas aboutie
 
 
 ROUND 150
 
-Personnage4 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 33320 soit 28%  à  Personnage8
+Personnage4 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 41082 soit 71%  à  Personnage7
 
 
 ROUND 151
 
-Personnage9 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 47186 soit 54%  à  Personnage1
+l'attaque de Personnage7 sur Personnage3 n'a pas aboutie
 
 
 ROUND 152
 
-l'attaque de Personnage4 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage7 n'a pas aboutie
 
 
 ROUND 153
 
-l'attaque de Personnage1 sur Personnage7 n'a pas aboutie
+Personnage2 attaque -> Personnage3
+mais Personnage3 à réussi à ce défendre
+Personnage3 perd
+1193 de vie
+ il ne reste plus que 25974 soit 24%  à  Personnage3
 
 
 ROUND 154
 
-Personnage1 attaque -> Personnage2
-Personnage2 ne réussit pas à ce défendre
-Personnage2 perd
-2433 de vie
- il ne reste plus que 16114 soit 15%  à  Personnage2
+l'attaque de Personnage3 sur Personnage9 n'a pas aboutie
 
 
 ROUND 155
 
-Personnage1 attaque -> Personnage3
-mais Personnage3 à réussi à ce défendre
-Personnage3 perd
-1029 de vie
- il ne reste plus que 11832 soit 11%  à  Personnage3
+l'attaque de Personnage7 sur Personnage1 n'a pas aboutie
 
 
 ROUND 156
 
-l'attaque de Personnage10 sur Personnage2 n'a pas aboutie
+Personnage4 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 29460 soit 51%  à  Personnage6
 
 
 ROUND 157
 
-Personnage5 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 43997 soit 42%  à  Personnage7
+l'attaque de Personnage10 sur Personnage7 n'a pas aboutie
 
 
 ROUND 158
 
-l'attaque de Personnage3 sur Personnage7 n'a pas aboutie
+Personnage3 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 50554 soit 57%  à  Personnage10
 
 
 ROUND 159
 
-Personnage1 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 42968 soit 40%  à  Personnage7
+Personnage8 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 51654 soit 48%  à  Personnage2
 
 
 ROUND 160
 
-Personnage10 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 47390 soit 55%  à  Personnage5
+l'attaque de Personnage4 sur Personnage7 n'a pas aboutie
 
 
 ROUND 161
 
-l'attaque de Personnage6 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage5 sur Personnage3 n'a pas aboutie
 
 
 ROUND 162
 
-l'attaque de Personnage8 sur Personnage4 n'a pas aboutie
+l'attaque de Personnage1 sur Personnage10 n'a pas aboutie
 
 
 ROUND 163
 
-l'attaque de Personnage3 sur Personnage1 n'a pas aboutie
+Personnage10 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 40353 soit 36%  à  Personnage7
 
 
 ROUND 164
 
-l'attaque de Personnage6 sur Personnage2 n'a pas aboutie
+Personnage6 attaque -> Personnage1
+mais Personnage1 à réussi à ce défendre
+Personnage1 perd
+729 de vie
+ il ne reste plus que 20500 soit 29%  à  Personnage1
 
 
 ROUND 165
 
-l'attaque de Personnage7 sur Personnage10 n'a pas aboutie
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 53561 soit 49%  à  Personnage5
 
 
 ROUND 166
 
-l'attaque de Personnage3 sur Personnage9 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
 
 
 ROUND 167
 
-l'attaque de Personnage3 sur Personnage10 n'a pas aboutie
+Personnage1 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 51199 soit 89%  à  Personnage2
 
 
 ROUND 168
 
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
 
 
 ROUND 169
 
-Personnage7 attaque -> Personnage3
-mais Personnage3 à réussi à ce défendre
-Personnage3 perd
-1029 de vie
- il ne reste plus que 10803 soit 10%  à  Personnage3
+Personnage9 attaque -> Personnage1
+Personnage1 ne réussit pas à ce défendre
+Personnage1 perd
+1458 de vie
+ il ne reste plus que 19042 soit 24%  à  Personnage1
 
 
 ROUND 170
 
-l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
+l'attaque de Personnage9 sur Personnage5 n'a pas aboutie
 
 
 ROUND 171
 
-l'attaque de Personnage8 sur Personnage9 n'a pas aboutie
+Personnage4 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 50118 soit 87%  à  Personnage10
 
 
 ROUND 172
 
-l'attaque de Personnage2 sur Personnage7 n'a pas aboutie
+Personnage1 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 28810 soit 50%  à  Personnage6
 
 
 ROUND 173
 
-l'attaque de Personnage2 sur Personnage4 n'a pas aboutie
+Personnage10 attaque -> Personnage3
+mais Personnage3 à réussi à ce défendre
+Personnage3 perd
+1193 de vie
+ il ne reste plus que 24781 soit 22%  à  Personnage3
 
 
 ROUND 174
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage5 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
+Personnage9 perd
+729 de vie
+ il ne reste plus que 26466 soit 23%  à  Personnage9
 
 
 ROUND 175
 
-Personnage5 attaque -> Personnage6
-Personnage6 ne réussit pas à ce défendre
-Personnage6 perd
-2316 de vie
- il ne reste plus que 27680 soit 26%  à  Personnage6
+Personnage2 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 24065 soit 22%  à  Personnage4
 
 
 ROUND 176
 
-l'attaque de Personnage10 sur Personnage3 n'a pas aboutie
+Personnage7 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 49240 soit 44%  à  Personnage8
 
 
 ROUND 177
 
-Personnage3 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 41939 soit 79%  à  Personnage7
+Personnage5 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
+Personnage9 perd
+729 de vie
+ il ne reste plus que 25737 soit 22%  à  Personnage9
 
 
 ROUND 178
 
-Personnage6 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 51125 soit 56%  à  Personnage4
+Personnage8 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 50744 soit 47%  à  Personnage2
 
 
 ROUND 179
 
-Personnage4 attaque -> Personnage2
-mais Personnage2 à réussi à ce défendre
-Personnage2 perd
-1216 de vie
- il ne reste plus que 14898 soit 12%  à  Personnage2
+Personnage7 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 23610 soit 21%  à  Personnage4
 
 
 ROUND 180
 
-l'attaque de Personnage2 sur Personnage6 n'a pas aboutie
+Personnage8 attaque -> Personnage1
+Personnage1 ne réussit pas à ce défendre
+Personnage1 perd
+1458 de vie
+ il ne reste plus que 17584 soit 16%  à  Personnage1
 
 
 ROUND 181
 
-l'attaque de Personnage2 sur Personnage8 n'a pas aboutie
+Personnage10 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 28160 soit 25%  à  Personnage6
 
 
 ROUND 182
 
-l'attaque de Personnage3 sur Personnage7 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage3 n'a pas aboutie
 
 
 ROUND 183
 
-Personnage4 attaque -> Personnage10
-mais Personnage10 à réussi à ce défendre
-Personnage10 perd
-946 de vie
- il ne reste plus que 30304 soit 25%  à  Personnage10
+l'attaque de Personnage4 sur Personnage10 n'a pas aboutie
 
 
 ROUND 184
 
-l'attaque de Personnage7 sur Personnage3 n'a pas aboutie
+Personnage7 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 50517 soit 45%  à  Personnage2
 
 
 ROUND 185
 
-l'attaque de Personnage5 sur Personnage3 n'a pas aboutie
+Personnage1 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 27510 soit 48%  à  Personnage6
 
 
 ROUND 186
 
-l'attaque de Personnage8 sur Personnage9 n'a pas aboutie
+l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
 
 
 ROUND 187
 
-Personnage6 attaque -> Personnage7
-Personnage7 ne réussit pas à ce défendre
-Personnage7 perd
-2059 de vie
- il ne reste plus que 39880 soit 44%  à  Personnage7
+Personnage3 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 50062 soit 57%  à  Personnage2
 
 
 ROUND 188
 
-Personnage5 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 32683 soit 31%  à  Personnage8
+l'attaque de Personnage4 sur Personnage10 n'a pas aboutie
 
 
 ROUND 189
 
-Personnage6 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 32365 soit 35%  à  Personnage8
+l'attaque de Personnage8 sur Personnage6 n'a pas aboutie
 
 
 ROUND 190
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage3 sur Personnage8 n'a pas aboutie
 
 
 ROUND 191
 
-l'attaque de Personnage3 sur Personnage7 n'a pas aboutie
+Personnage4 attaque -> Personnage9
+Personnage9 ne réussit pas à ce défendre
+Personnage9 perd
+1458 de vie
+ il ne reste plus que 24279 soit 42%  à  Personnage9
 
 
 ROUND 192
 
-l'attaque de Personnage10 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage9 sur Personnage8 n'a pas aboutie
 
 
 ROUND 193
 
-Personnage2 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 36639 soit 48%  à  Personnage9
+l'attaque de Personnage7 sur Personnage5 n'a pas aboutie
 
 
 ROUND 194
 
-Personnage3 attaque -> Personnage2
-Personnage2 ne réussit pas à ce défendre
-Personnage2 perd
-2433 de vie
- il ne reste plus que 12465 soit 23%  à  Personnage2
+l'attaque de Personnage10 sur Personnage9 n'a pas aboutie
 
 
 ROUND 195
 
-l'attaque de Personnage6 sur Personnage4 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage9 n'a pas aboutie
 
 
 ROUND 196
 
-l'attaque de Personnage8 sur Personnage3 n'a pas aboutie
+l'attaque de Personnage4 sur Personnage9 n'a pas aboutie
 
 
 ROUND 197
 
-l'attaque de Personnage1 sur Personnage4 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage2 n'a pas aboutie
 
 
 ROUND 198
 
-l'attaque de Personnage8 sur Personnage9 n'a pas aboutie
+l'attaque de Personnage7 sur Personnage5 n'a pas aboutie
 
 
 ROUND 199
 
-Personnage4 attaque -> Personnage2
-Personnage2 ne réussit pas à ce défendre
-Personnage2 perd
-2433 de vie
- il ne reste plus que 10032 soit 8%  à  Personnage2
+Personnage3 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 39624 soit 45%  à  Personnage7
 
 
 ROUND 200
 
-l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
+Personnage1 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 27185 soit 47%  à  Personnage6
 
 
 ROUND 201
 
-Personnage9 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 46906 soit 54%  à  Personnage1
+l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
 
 
 ROUND 202
 
-l'attaque de Personnage6 sur Personnage7 n'a pas aboutie
+Personnage1 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 23383 soit 40%  à  Personnage4
 
 
 ROUND 203
 
-l'attaque de Personnage6 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage5 sur Personnage10 n'a pas aboutie
 
 
 ROUND 204
 
-Personnage7 attaque -> Personnage10
-Personnage10 ne réussit pas à ce défendre
+Personnage5 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
 Personnage10 perd
-1892 de vie
- il ne reste plus que 28412 soit 27%  à  Personnage10
+436 de vie
+ il ne reste plus que 49682 soit 43%  à  Personnage10
 
 
 ROUND 205
 
-Personnage5 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
+Personnage1 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
 Personnage8 perd
-637 de vie
- il ne reste plus que 31728 soit 30%  à  Personnage8
+436 de vie
+ il ne reste plus que 48804 soit 85%  à  Personnage8
 
 
 ROUND 206
 
-Personnage2 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 47110 soit 61%  à  Personnage5
+l'attaque de Personnage6 sur Personnage3 n'a pas aboutie
 
 
 ROUND 207
 
-Personnage2 attaque -> Personnage3
-mais Personnage3 à réussi à ce défendre
-Personnage3 perd
-1029 de vie
- il ne reste plus que 9774 soit 12%  à  Personnage3
+l'attaque de Personnage9 sur Personnage3 n'a pas aboutie
 
 
 ROUND 208
 
-Personnage7 attaque -> Personnage6
-Personnage6 ne réussit pas à ce défendre
-Personnage6 perd
-2316 de vie
- il ne reste plus que 25364 soit 24%  à  Personnage6
+Personnage4 attaque -> Personnage9
+Personnage9 ne réussit pas à ce défendre
+Personnage9 perd
+1458 de vie
+ il ne reste plus que 22821 soit 39%  à  Personnage9
 
 
 ROUND 209
 
-l'attaque de Personnage1 sur Personnage7 n'a pas aboutie
+Personnage4 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 38895 soit 67%  à  Personnage7
 
 
 ROUND 210
 
-Personnage5 attaque -> Personnage2
-Personnage2 ne réussit pas à ce défendre
-Personnage2 perd
-2433 de vie
- il ne reste plus que 7599 soit 7%  à  Personnage2
+Personnage9 attaque -> Personnage1
+mais Personnage1 à réussi à ce défendre
+Personnage1 perd
+729 de vie
+ il ne reste plus que 16855 soit 21%  à  Personnage1
 
 
 ROUND 211
 
-Personnage7 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 49773 soit 47%  à  Personnage4
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 49607 soit 86%  à  Personnage2
 
 
 ROUND 212
 
-l'attaque de Personnage2 sur Personnage8 n'a pas aboutie
+Personnage10 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
+Personnage9 perd
+729 de vie
+ il ne reste plus que 22092 soit 19%  à  Personnage9
 
 
 ROUND 213
 
-Personnage1 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 36002 soit 33%  à  Personnage9
+Personnage10 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 22928 soit 20%  à  Personnage4
 
 
 ROUND 214
 
-Personnage9 attaque -> Personnage7
-Personnage7 ne réussit pas à ce défendre
-Personnage7 perd
-2059 de vie
- il ne reste plus que 37821 soit 43%  à  Personnage7
+Personnage3 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 53334 soit 60%  à  Personnage5
 
 
 ROUND 215
 
-l'attaque de Personnage4 sur Personnage2 n'a pas aboutie
+Personnage9 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 22473 soit 28%  à  Personnage4
 
 
 ROUND 216
 
-Personnage9 attaque -> Personnage2
-Personnage2 ne réussit pas à ce défendre
-Personnage2 perd
-2433 de vie
- il ne reste plus que 5166 soit 6%  à  Personnage2
+Personnage6 attaque -> Personnage1
+mais Personnage1 à réussi à ce défendre
+Personnage1 perd
+729 de vie
+ il ne reste plus que 16126 soit 23%  à  Personnage1
 
 
 ROUND 217
 
-l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+l'attaque de Personnage1 sur Personnage7 n'a pas aboutie
 
 
 ROUND 218
 
-Personnage2 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 49097 soit 64%  à  Personnage4
+Personnage3 attaque -> Personnage1
+mais Personnage1 à réussi à ce défendre
+Personnage1 perd
+729 de vie
+ il ne reste plus que 15397 soit 17%  à  Personnage1
 
 
 ROUND 219
 
-l'attaque de Personnage8 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage7 sur Personnage4 n'a pas aboutie
 
 
 ROUND 220
 
-l'attaque de Personnage3 sur Personnage5 n'a pas aboutie
+Personnage3 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 26535 soit 30%  à  Personnage6
 
 
 ROUND 221
 
-l'attaque de Personnage2 sur Personnage6 n'a pas aboutie
+l'attaque de Personnage3 sur Personnage1 n'a pas aboutie
 
 
 ROUND 222
 
-Personnage4 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 46626 soit 39%  à  Personnage1
+l'attaque de Personnage10 sur Personnage5 n'a pas aboutie
 
 
 ROUND 223
 
-l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
+Personnage6 attaque -> Personnage1
+mais Personnage1 à réussi à ce défendre
+Personnage1 perd
+729 de vie
+ il ne reste plus que 14668 soit 21%  à  Personnage1
 
 
 ROUND 224
 
-Personnage8 attaque -> Personnage3
-Personnage3 ne réussit pas à ce défendre
-Personnage3 perd
-2059 de vie
- il ne reste plus que 7715 soit 10%  à  Personnage3
+Personnage6 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 53107 soit 76%  à  Personnage5
 
 
 ROUND 225
 
-l'attaque de Personnage2 sur Personnage1 n'a pas aboutie
+Personnage3 attaque -> Personnage1
+Personnage1 ne réussit pas à ce défendre
+Personnage1 perd
+1458 de vie
+ il ne reste plus que 13210 soit 15%  à  Personnage1
 
 
 ROUND 226
 
-Personnage1 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 47745 soit 44%  à  Personnage4
+Personnage1 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 47931 soit 84%  à  Personnage8
 
 
 ROUND 227
 
-l'attaque de Personnage7 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage6 sur Personnage4 n'a pas aboutie
 
 
 ROUND 228
 
-l'attaque de Personnage2 sur Personnage9 n'a pas aboutie
+l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
 
 
 ROUND 229
 
-l'attaque de Personnage6 sur Personnage8 n'a pas aboutie
+Personnage6 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 22018 soit 31%  à  Personnage4
 
 
 ROUND 230
 
-Personnage9 attaque -> Personnage3
-Personnage3 ne réussit pas à ce défendre
-Personnage3 perd
-2059 de vie
- il ne reste plus que 5656 soit 6%  à  Personnage3
+l'attaque de Personnage6 sur Personnage2 n'a pas aboutie
 
 
 ROUND 231
 
-Personnage8 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 46065 soit 60%  à  Personnage1
+l'attaque de Personnage10 sur Personnage2 n'a pas aboutie
 
 
 ROUND 232
 
-Personnage9 attaque -> Personnage3
-Personnage3 ne réussit pas à ce défendre
-Personnage3 perd
-2059 de vie
- il ne reste plus que 3597 soit 4%  à  Personnage3
+Personnage10 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 38166 soit 34%  à  Personnage7
 
 
 ROUND 233
 
-l'attaque de Personnage5 sur Personnage10 n'a pas aboutie
+Personnage6 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 49246 soit 71%  à  Personnage10
 
 
 ROUND 234
 
-Personnage7 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 46393 soit 44%  à  Personnage4
+Personnage3 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 49152 soit 56%  à  Personnage2
 
 
 ROUND 235
 
-Personnage8 attaque -> Personnage10
-Personnage10 ne réussit pas à ce défendre
-Personnage10 perd
-1892 de vie
- il ne reste plus que 26520 soit 35%  à  Personnage10
+l'attaque de Personnage4 sur Personnage1 n'a pas aboutie
 
 
 ROUND 236
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 45785 soit 44%  à  Personnage1
+l'attaque de Personnage2 sur Personnage8 n'a pas aboutie
 
 
 ROUND 237
 
-Personnage7 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 31410 soit 30%  à  Personnage8
+Personnage7 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 48925 soit 44%  à  Personnage2
 
 
 ROUND 238
 
-Personnage9 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 45505 soit 52%  à  Personnage1
+Personnage8 attaque -> Personnage9
+Personnage9 ne réussit pas à ce défendre
+Personnage9 perd
+1458 de vie
+ il ne reste plus que 20634 soit 19%  à  Personnage9
 
 
 ROUND 239
 
-Personnage2 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 46830 soit 61%  à  Personnage5
+Personnage2 attaque -> Personnage1
+Personnage1 ne réussit pas à ce défendre
+Personnage1 perd
+1458 de vie
+ il ne reste plus que 11752 soit 10%  à  Personnage1
 
 
 ROUND 240
 
-Personnage3 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 35684 soit 67%  à  Personnage9
+Personnage4 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 52652 soit 92%  à  Personnage5
 
 
 ROUND 241
 
-Personnage8 attaque -> Personnage2
-mais Personnage2 à réussi à ce défendre
-Personnage2 perd
-1216 de vie
- il ne reste plus que 3950 soit 5%  à  Personnage2
+l'attaque de Personnage2 sur Personnage8 n'a pas aboutie
 
 
 ROUND 242
 
-l'attaque de Personnage9 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
 
 
 ROUND 243
 
-Personnage10 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 46269 soit 54%  à  Personnage5
+Personnage3 attaque -> Personnage1
+Personnage1 ne réussit pas à ce défendre
+Personnage1 perd
+1458 de vie
+ il ne reste plus que 10294 soit 11%  à  Personnage1
 
 
 ROUND 244
 
-Personnage5 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
+Personnage10 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
 Personnage8 perd
-318 de vie
- il ne reste plus que 31092 soit 30%  à  Personnage8
+873 de vie
+ il ne reste plus que 47058 soit 42%  à  Personnage8
 
 
 ROUND 245
 
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage9 n'a pas aboutie
 
 
 ROUND 246
 
-Personnage8 attaque -> Personnage7
-Personnage7 ne réussit pas à ce défendre
-Personnage7 perd
-2059 de vie
- il ne reste plus que 35762 soit 47%  à  Personnage7
+Personnage4 attaque -> Personnage1
+mais Personnage1 à réussi à ce défendre
+Personnage1 perd
+729 de vie
+ il ne reste plus que 9565 soit 16%  à  Personnage1
 
 
 ROUND 247
 
-Personnage2 attaque -> Personnage6
-Personnage6 ne réussit pas à ce défendre
-Personnage6 perd
-2316 de vie
- il ne reste plus que 23048 soit 30%  à  Personnage6
+Personnage2 attaque -> Personnage1
+Personnage1 ne réussit pas à ce défendre
+Personnage1 perd
+1458 de vie
+ il ne reste plus que 8107 soit 7%  à  Personnage1
 
 
 ROUND 248
 
-Personnage1 attaque -> Personnage6
-mais Personnage6 à réussi à ce défendre
-Personnage6 perd
-1158 de vie
- il ne reste plus que 21890 soit 20%  à  Personnage6
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 48470 soit 84%  à  Personnage2
 
 
 ROUND 249
 
-Personnage6 attaque -> Personnage2
-mais Personnage2 à réussi à ce défendre
-Personnage2 perd
-1216 de vie
- il ne reste plus que 2734 soit 3%  à  Personnage2
+l'attaque de Personnage1 sur Personnage6 n'a pas aboutie
 
 
 ROUND 250
 
-l'attaque de Personnage8 sur Personnage6 n'a pas aboutie
+Personnage3 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 52425 soit 59%  à  Personnage5
 
 
 ROUND 251
 
-l'attaque de Personnage5 sur Personnage7 n'a pas aboutie
+Personnage5 attaque -> Personnage1
+Personnage1 ne réussit pas à ce défendre
+Personnage1 perd
+1458 de vie
+ il ne reste plus que 6649 soit 5%  à  Personnage1
 
 
 ROUND 252
 
-Personnage10 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 45717 soit 53%  à  Personnage4
+Personnage5 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 25885 soit 22%  à  Personnage6
 
 
 ROUND 253
 
-l'attaque de Personnage9 sur Personnage3 n'a pas aboutie
+Personnage8 attaque -> Personnage1
+mais Personnage1 à réussi à ce défendre
+Personnage1 perd
+729 de vie
+ il ne reste plus que 5920 soit 5%  à  Personnage1
 
 
 ROUND 254
 
-l'attaque de Personnage8 sur Personnage2 n'a pas aboutie
+Personnage4 attaque -> Personnage3
+Personnage3 ne réussit pas à ce défendre
+Personnage3 perd
+2386 de vie
+ il ne reste plus que 22395 soit 39%  à  Personnage3
 
 
 ROUND 255
 
-Personnage5 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 34733 soit 33%  à  Personnage7
+Personnage8 attaque -> Personnage9
+Personnage9 ne réussit pas à ce défendre
+Personnage9 perd
+1458 de vie
+ il ne reste plus que 19176 soit 18%  à  Personnage9
 
 
 ROUND 256
 
-Personnage1 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 44365 soit 41%  à  Personnage4
+l'attaque de Personnage7 sur Personnage1 n'a pas aboutie
 
 
 ROUND 257
 
-Personnage10 attaque -> Personnage7
+Personnage8 attaque -> Personnage7
 Personnage7 ne réussit pas à ce défendre
 Personnage7 perd
-2059 de vie
- il ne reste plus que 32674 soit 38%  à  Personnage7
+1458 de vie
+ il ne reste plus que 36708 soit 34%  à  Personnage7
 
 
 ROUND 258
 
-Personnage8 attaque -> Personnage2
-mais Personnage2 à réussi à ce défendre
-Personnage2 perd
-1216 de vie
- il ne reste plus que 1518 soit 2%  à  Personnage2
+l'attaque de Personnage1 sur Personnage10 n'a pas aboutie
 
 
 ROUND 259
 
-Personnage8 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 43689 soit 57%  à  Personnage4
+l'attaque de Personnage1 sur Personnage2 n'a pas aboutie
 
 
 ROUND 260
 
-l'attaque de Personnage4 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage6 sur Personnage4 n'a pas aboutie
 
 
 ROUND 261
 
-Personnage7 attaque -> Personnage10
-Personnage10 ne réussit pas à ce défendre
-Personnage10 perd
-1892 de vie
- il ne reste plus que 24628 soit 23%  à  Personnage10
+Personnage10 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 46622 soit 42%  à  Personnage8
 
 
 ROUND 262
 
-Personnage1 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 43013 soit 40%  à  Personnage4
+Personnage3 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 35250 soit 40%  à  Personnage7
 
 
 ROUND 263
 
-Personnage2 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 35366 soit 46%  à  Personnage9
+l'attaque de Personnage3 sur Personnage8 n'a pas aboutie
 
 
 ROUND 264
 
-l'attaque de Personnage10 sur Personnage2 n'a pas aboutie
+l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
 
 
 ROUND 265
 
-Personnage2 attaque -> Personnage3
-Personnage3 ne réussit pas à ce défendre
-Personnage3 perd
-2059 de vie
- il ne reste plus que 1538 soit 2%  à  Personnage3
+Personnage2 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 34521 soit 32%  à  Personnage7
 
 
 ROUND 266
 
-Personnage6 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 41661 soit 46%  à  Personnage4
+Personnage3 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 45749 soit 52%  à  Personnage8
 
 
 ROUND 267
 
-Personnage4 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 31645 soit 26%  à  Personnage7
+Personnage9 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 45313 soit 57%  à  Personnage8
 
 
 ROUND 268
 
-l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
+Personnage9 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 25560 soit 32%  à  Personnage6
 
 
 ROUND 269
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 45225 soit 44%  à  Personnage1
+Personnage4 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 25235 soit 44%  à  Personnage6
 
 
 ROUND 270
 
-l'attaque de Personnage6 sur Personnage7 n'a pas aboutie
+l'attaque de Personnage6 sur Personnage5 n'a pas aboutie
 
 
 ROUND 271
 
-Personnage2 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 40985 soit 53%  à  Personnage4
+Personnage2 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 48373 soit 45%  à  Personnage10
 
 
 ROUND 272
 
-l'attaque de Personnage3 sur Personnage2 n'a pas aboutie
+l'attaque de Personnage1 sur Personnage4 n'a pas aboutie
 
 
 ROUND 273
 
-Personnage9 attaque -> Personnage10
-mais Personnage10 à réussi à ce défendre
-Personnage10 perd
-946 de vie
- il ne reste plus que 23682 soit 27%  à  Personnage10
+l'attaque de Personnage5 sur Personnage3 n'a pas aboutie
 
 
 ROUND 274
 
-l'attaque de Personnage7 sur Personnage8 n'a pas aboutie
+Personnage2 attaque -> Personnage1
+Personnage1 ne réussit pas à ce défendre
+Personnage1 perd
+1458 de vie
+ il ne reste plus que 4462 soit 4%  à  Personnage1
 
 
 ROUND 275
 
-Personnage8 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 44945 soit 59%  à  Personnage1
+Personnage5 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 21791 soit 19%  à  Personnage4
 
 
 ROUND 276
 
-Personnage9 attaque -> Personnage7
-Personnage7 ne réussit pas à ce défendre
-Personnage7 perd
-2059 de vie
- il ne reste plus que 29586 soit 34%  à  Personnage7
+l'attaque de Personnage7 sur Personnage2 n'a pas aboutie
 
 
 ROUND 277
 
-Personnage2 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 28557 soit 37%  à  Personnage7
+l'attaque de Personnage8 sur Personnage2 n'a pas aboutie
 
 
 ROUND 278
 
-l'attaque de Personnage3 sur Personnage10 n'a pas aboutie
+Personnage5 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 24585 soit 21%  à  Personnage6
 
 
 ROUND 279
 
-Personnage10 attaque -> Personnage3
-mais Personnage3 à réussi à ce défendre
-Personnage3 perd
-1029 de vie
- il ne reste plus que 509 soit 0%  à  Personnage3
+l'attaque de Personnage7 sur Personnage10 n'a pas aboutie
 
 
 ROUND 280
 
-l'attaque de Personnage9 sur Personnage7 n'a pas aboutie
+Personnage9 attaque -> Personnage3
+mais Personnage3 à réussi à ce défendre
+Personnage3 perd
+1193 de vie
+ il ne reste plus que 21202 soit 26%  à  Personnage3
 
 
 ROUND 281
 
-Personnage4 attaque -> Personnage10
-Personnage10 ne réussit pas à ce défendre
-Personnage10 perd
-1892 de vie
- il ne reste plus que 21790 soit 18%  à  Personnage10
+Personnage6 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 21564 soit 31%  à  Personnage4
 
 
 ROUND 282
 
-Personnage6 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 30774 soit 34%  à  Personnage8
+l'attaque de Personnage9 sur Personnage7 n'a pas aboutie
 
 
 ROUND 283
 
-Personnage9 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 45989 soit 53%  à  Personnage5
+l'attaque de Personnage2 sur Personnage4 n'a pas aboutie
 
 
 ROUND 284
 
-l'attaque de Personnage8 sur Personnage7 n'a pas aboutie
+Personnage10 attaque -> Personnage3
+mais Personnage3 à réussi à ce défendre
+Personnage3 perd
+1193 de vie
+ il ne reste plus que 20009 soit 18%  à  Personnage3
 
 
 ROUND 285
 
-Personnage3 est eliminer
+l'attaque de Personnage1 sur Personnage8 n'a pas aboutie
+
+
 ROUND 286
 
-l'attaque de Personnage9 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage4 sur Personnage6 n'a pas aboutie
 
 
 ROUND 287
 
-l'attaque de Personnage9 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage1 sur Personnage8 n'a pas aboutie
 
 
 ROUND 288
 
-Personnage8 attaque -> Personnage9
+Personnage6 attaque -> Personnage9
 Personnage9 ne réussit pas à ce défendre
 Personnage9 perd
-637 de vie
- il ne reste plus que 34729 soit 45%  à  Personnage9
+1458 de vie
+ il ne reste plus que 17718 soit 25%  à  Personnage9
 
 
 ROUND 289
 
-Personnage6 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 45428 soit 50%  à  Personnage5
+Personnage4 attaque -> Personnage1
+Personnage1 ne réussit pas à ce défendre
+Personnage1 perd
+1458 de vie
+ il ne reste plus que 3004 soit 5%  à  Personnage1
 
 
 ROUND 290
 
-l'attaque de Personnage10 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage9 n'a pas aboutie
 
 
 ROUND 291
 
-Personnage2 attaque -> Personnage7
-Personnage7 ne réussit pas à ce défendre
-Personnage7 perd
-2059 de vie
- il ne reste plus que 26498 soit 34%  à  Personnage7
+l'attaque de Personnage7 sur Personnage5 n'a pas aboutie
 
 
 ROUND 292
 
-l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
+Personnage9 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 33063 soit 41%  à  Personnage7
 
 
 ROUND 293
 
-Personnage8 attaque -> Personnage10
-Personnage10 ne réussit pas à ce défendre
-Personnage10 perd
-1892 de vie
- il ne reste plus que 19898 soit 26%  à  Personnage10
+Personnage10 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
+Personnage9 perd
+729 de vie
+ il ne reste plus que 16989 soit 15%  à  Personnage9
 
 
 ROUND 294
 
-Personnage5 attaque -> Personnage4
+Personnage1 attaque -> Personnage4
 mais Personnage4 à réussi à ce défendre
 Personnage4 perd
-676 de vie
- il ne reste plus que 40309 soit 39%  à  Personnage4
+227 de vie
+ il ne reste plus que 21337 soit 37%  à  Personnage4
 
 
 ROUND 295
 
-l'attaque de Personnage10 sur Personnage8 n'a pas aboutie
+Personnage8 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 51970 soit 48%  à  Personnage5
 
 
 ROUND 296
 
-Personnage4 attaque -> Personnage6
-mais Personnage6 à réussi à ce défendre
-Personnage6 perd
-1158 de vie
- il ne reste plus que 20732 soit 17%  à  Personnage6
+Personnage3 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 51515 soit 58%  à  Personnage5
 
 
 ROUND 297
 
-Personnage2 est eliminer
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
 ROUND 298
 
-Personnage8 attaque -> Personnage10
-Personnage10 ne réussit pas à ce défendre
-Personnage10 perd
-1892 de vie
- il ne reste plus que 18006 soit 23%  à  Personnage10
+Personnage6 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 32334 soit 46%  à  Personnage7
 
 
 ROUND 299
 
-l'attaque de Personnage1 sur Personnage4 n'a pas aboutie
+Personnage1 attaque -> Personnage3
+Personnage3 ne réussit pas à ce défendre
+Personnage3 perd
+2386 de vie
+ il ne reste plus que 17623 soit 30%  à  Personnage3
 
 
 ROUND 300
 
-l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
+Personnage7 attaque -> Personnage9
+Personnage9 ne réussit pas à ce défendre
+Personnage9 perd
+1458 de vie
+ il ne reste plus que 15531 soit 14%  à  Personnage9
 
 
 ROUND 301
 
-l'attaque de Personnage4 sur Personnage1 n'a pas aboutie
+Personnage7 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 44877 soit 40%  à  Personnage8
 
 
 ROUND 302
 
-l'attaque de Personnage8 sur Personnage10 n'a pas aboutie
+Personnage10 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 44441 soit 40%  à  Personnage8
 
 
 ROUND 303
 
-Personnage10 attaque -> Personnage6
-mais Personnage6 à réussi à ce défendre
-Personnage6 perd
-1158 de vie
- il ne reste plus que 19574 soit 22%  à  Personnage6
+Personnage8 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 30876 soit 29%  à  Personnage7
 
 
 ROUND 304
 
-Personnage1 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 38957 soit 36%  à  Personnage4
+l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
 
 
 ROUND 305
 
-l'attaque de Personnage5 sur Personnage6 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage10 n'a pas aboutie
 
 
 ROUND 306
 
-l'attaque de Personnage7 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage1 sur Personnage6 n'a pas aboutie
 
 
 ROUND 307
 
-Personnage1 attaque -> Personnage6
-Personnage6 ne réussit pas à ce défendre
-Personnage6 perd
-2316 de vie
- il ne reste plus que 17258 soit 16%  à  Personnage6
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 48243 soit 42%  à  Personnage2
 
 
 ROUND 308
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 44665 soit 43%  à  Personnage1
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 47788 soit 83%  à  Personnage2
 
 
 ROUND 309
 
-l'attaque de Personnage1 sur Personnage9 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage8 n'a pas aboutie
 
 
 ROUND 310
 
-l'attaque de Personnage6 sur Personnage7 n'a pas aboutie
+Personnage7 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
+Personnage9 perd
+729 de vie
+ il ne reste plus que 14802 soit 13%  à  Personnage9
 
 
 ROUND 311
@@ -2235,1379 +2274,1317 @@ l'attaque de Personnage6 sur Personnage7 n'a pas aboutie
 
 ROUND 312
 
-Personnage1 attaque -> Personnage5
+Personnage9 attaque -> Personnage5
 mais Personnage5 à réussi à ce défendre
 Personnage5 perd
-280 de vie
- il ne reste plus que 45148 soit 42%  à  Personnage5
+227 de vie
+ il ne reste plus que 51288 soit 64%  à  Personnage5
 
 
 ROUND 313
 
-Personnage8 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
+Personnage3 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
 Personnage9 perd
-637 de vie
- il ne reste plus que 34092 soit 45%  à  Personnage9
+729 de vie
+ il ne reste plus que 14073 soit 16%  à  Personnage9
 
 
 ROUND 314
 
-Personnage1 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 38281 soit 36%  à  Personnage4
+Personnage4 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 50833 soit 88%  à  Personnage5
 
 
 ROUND 315
 
-Personnage8 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 44385 soit 58%  à  Personnage1
+Personnage9 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 50378 soit 63%  à  Personnage5
 
 
 ROUND 316
 
-Personnage1 attaque -> Personnage6
-mais Personnage6 à réussi à ce défendre
-Personnage6 perd
-1158 de vie
- il ne reste plus que 16100 soit 15%  à  Personnage6
+l'attaque de Personnage3 sur Personnage5 n'a pas aboutie
 
 
 ROUND 317
 
-Personnage9 attaque -> Personnage10
-mais Personnage10 à réussi à ce défendre
-Personnage10 perd
-946 de vie
- il ne reste plus que 17060 soit 19%  à  Personnage10
+l'attaque de Personnage3 sur Personnage5 n'a pas aboutie
 
 
 ROUND 318
 
-Personnage9 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 25469 soit 29%  à  Personnage7
+Personnage1 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 44005 soit 77%  à  Personnage8
 
 
 ROUND 319
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage4 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 43569 soit 76%  à  Personnage8
 
 
 ROUND 320
 
-Personnage7 attaque -> Personnage6
-Personnage6 ne réussit pas à ce défendre
-Personnage6 perd
-2316 de vie
- il ne reste plus que 13784 soit 13%  à  Personnage6
+Personnage6 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 47333 soit 68%  à  Personnage2
 
 
 ROUND 321
 
-Personnage6 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 44868 soit 49%  à  Personnage5
+Personnage6 attaque -> Personnage3
+mais Personnage3 à réussi à ce défendre
+Personnage3 perd
+1193 de vie
+ il ne reste plus que 16430 soit 23%  à  Personnage3
 
 
 ROUND 322
 
-Personnage8 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 33455 soit 44%  à  Personnage9
+l'attaque de Personnage10 sur Personnage9 n'a pas aboutie
 
 
 ROUND 323
 
-Personnage1 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 33137 soit 31%  à  Personnage9
+l'attaque de Personnage10 sur Personnage4 n'a pas aboutie
 
 
 ROUND 324
 
-l'attaque de Personnage1 sur Personnage10 n'a pas aboutie
+Personnage2 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 21110 soit 19%  à  Personnage4
 
 
 ROUND 325
 
-l'attaque de Personnage5 sur Personnage7 n'a pas aboutie
+Personnage1 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 47106 soit 82%  à  Personnage2
 
 
 ROUND 326
 
-Personnage6 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 32500 soit 36%  à  Personnage9
+l'attaque de Personnage9 sur Personnage7 n'a pas aboutie
 
 
 ROUND 327
 
-Personnage7 attaque -> Personnage6
-Personnage6 ne réussit pas à ce défendre
-Personnage6 perd
-2316 de vie
- il ne reste plus que 11468 soit 10%  à  Personnage6
+Personnage5 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 42696 soit 37%  à  Personnage8
 
 
 ROUND 328
 
-Personnage8 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 31863 soit 42%  à  Personnage9
+Personnage8 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 47500 soit 44%  à  Personnage10
 
 
 ROUND 329
 
-Personnage5 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 30137 soit 29%  à  Personnage8
+Personnage5 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 30147 soit 26%  à  Personnage7
 
 
 ROUND 330
 
-l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
+Personnage10 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 41823 soit 37%  à  Personnage8
 
 
 ROUND 331
 
-Personnage9 attaque -> Personnage7
-Personnage7 ne réussit pas à ce défendre
-Personnage7 perd
-2059 de vie
- il ne reste plus que 23410 soit 27%  à  Personnage7
+l'attaque de Personnage6 sur Personnage5 n'a pas aboutie
 
 
 ROUND 332
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 44105 soit 42%  à  Personnage1
+l'attaque de Personnage6 sur Personnage10 n'a pas aboutie
 
 
 ROUND 333
 
-l'attaque de Personnage5 sur Personnage10 n'a pas aboutie
+Personnage8 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 20883 soit 19%  à  Personnage4
 
 
 ROUND 334
 
-Personnage9 attaque -> Personnage10
-mais Personnage10 à réussi à ce défendre
-Personnage10 perd
-946 de vie
- il ne reste plus que 16114 soit 18%  à  Personnage10
+Personnage8 attaque -> Personnage3
+Personnage3 ne réussit pas à ce défendre
+Personnage3 perd
+2386 de vie
+ il ne reste plus que 14044 soit 13%  à  Personnage3
 
 
 ROUND 335
 
-l'attaque de Personnage10 sur Personnage9 n'a pas aboutie
+Personnage7 attaque -> Personnage1
+Personnage1 ne réussit pas à ce défendre
+Personnage1 perd
+1458 de vie
+ il ne reste plus que 1546 soit 1%  à  Personnage1
 
 
 ROUND 336
 
-l'attaque de Personnage4 sur Personnage6 n'a pas aboutie
+Personnage3 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 49923 soit 56%  à  Personnage5
 
 
 ROUND 337
 
-l'attaque de Personnage10 sur Personnage4 n'a pas aboutie
+Personnage9 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 41387 soit 52%  à  Personnage8
 
 
 ROUND 338
 
-Personnage9 attaque -> Personnage6
-Personnage6 ne réussit pas à ce défendre
-Personnage6 perd
-2316 de vie
- il ne reste plus que 9152 soit 10%  à  Personnage6
+Personnage4 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 46627 soit 81%  à  Personnage10
 
 
 ROUND 339
 
-Personnage7 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 43825 soit 41%  à  Personnage1
+Personnage6 attaque -> Personnage9
+Personnage9 ne réussit pas à ce défendre
+Personnage9 perd
+1458 de vie
+ il ne reste plus que 12615 soit 18%  à  Personnage9
 
 
 ROUND 340
 
-Personnage6 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 22381 soit 24%  à  Personnage7
+Personnage2 attaque -> Personnage1
+Personnage1 ne réussit pas à ce défendre
+Personnage1 perd
+1458 de vie
+ il ne reste plus que 88 soit 0%  à  Personnage1
 
 
 ROUND 341
 
-Personnage4 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 31545 soit 26%  à  Personnage9
+l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
 
 
 ROUND 342
 
-l'attaque de Personnage6 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage4 n'a pas aboutie
 
 
 ROUND 343
 
-Personnage8 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 37605 soit 49%  à  Personnage4
+Personnage7 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 40514 soit 36%  à  Personnage8
 
 
 ROUND 344
 
-Personnage9 attaque -> Personnage10
-Personnage10 ne réussit pas à ce défendre
-Personnage10 perd
-1892 de vie
- il ne reste plus que 14222 soit 16%  à  Personnage10
+l'attaque de Personnage1 sur Personnage10 n'a pas aboutie
 
 
 ROUND 345
 
-Personnage7 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 30908 soit 29%  à  Personnage9
+l'attaque de Personnage2 sur Personnage3 n'a pas aboutie
 
 
 ROUND 346
 
-Personnage1 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 29500 soit 27%  à  Personnage8
+l'attaque de Personnage2 sur Personnage1 n'a pas aboutie
 
 
 ROUND 347
 
-Personnage4 attaque -> Personnage6
-Personnage6 ne réussit pas à ce défendre
-Personnage6 perd
-2316 de vie
- il ne reste plus que 6836 soit 5%  à  Personnage6
+l'attaque de Personnage6 sur Personnage9 n'a pas aboutie
 
 
 ROUND 348
 
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 30590 soit 40%  à  Personnage9
+l'attaque de Personnage8 sur Personnage2 n'a pas aboutie
 
 
 ROUND 349
 
-Personnage8 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 43264 soit 57%  à  Personnage1
+Personnage3 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 46879 soit 53%  à  Personnage2
 
 
 ROUND 350
 
-Personnage8 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 42984 soit 56%  à  Personnage1
+Personnage9 attaque -> Personnage3
+mais Personnage3 à réussi à ce défendre
+Personnage3 perd
+1193 de vie
+ il ne reste plus que 12851 soit 16%  à  Personnage3
 
 
 ROUND 351
 
-l'attaque de Personnage9 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage9 n'a pas aboutie
 
 
 ROUND 352
 
-l'attaque de Personnage7 sur Personnage1 n'a pas aboutie
+Personnage1 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 39641 soit 69%  à  Personnage8
 
 
 ROUND 353
 
-Personnage9 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 36929 soit 42%  à  Personnage4
+Personnage7 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 49696 soit 45%  à  Personnage5
 
 
 ROUND 354
 
-Personnage8 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 42423 soit 56%  à  Personnage1
+Personnage4 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 29418 soit 51%  à  Personnage7
 
 
 ROUND 355
 
-Personnage8 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 44307 soit 58%  à  Personnage5
+Personnage1 est eliminer tuer par Personnage7 
 
 
 ROUND 356
 
-l'attaque de Personnage8 sur Personnage7 n'a pas aboutie
+Personnage2 attaque -> Personnage9
+Personnage9 ne réussit pas à ce défendre
+Personnage9 perd
+1458 de vie
+ il ne reste plus que 11157 soit 10%  à  Personnage9
 
 
 ROUND 357
 
-l'attaque de Personnage10 sur Personnage4 n'a pas aboutie
+Personnage2 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 45754 soit 42%  à  Personnage10
 
 
 ROUND 358
 
-Personnage7 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 43746 soit 41%  à  Personnage5
+l'attaque de Personnage7 sur Personnage10 n'a pas aboutie
 
 
 ROUND 359
 
-Personnage9 attaque -> Personnage10
-mais Personnage10 à réussi à ce défendre
-Personnage10 perd
-946 de vie
- il ne reste plus que 13276 soit 15%  à  Personnage10
+Personnage4 attaque -> Personnage9
+Personnage9 ne réussit pas à ce défendre
+Personnage9 perd
+1458 de vie
+ il ne reste plus que 9699 soit 16%  à  Personnage9
 
 
 ROUND 360
 
-Personnage5 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 36253 soit 35%  à  Personnage4
+Personnage9 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 44881 soit 56%  à  Personnage10
 
 
 ROUND 361
 
-Personnage9 attaque -> Personnage10
-Personnage10 ne réussit pas à ce défendre
-Personnage10 perd
-1892 de vie
- il ne reste plus que 11384 soit 13%  à  Personnage10
+l'attaque de Personnage6 sur Personnage5 n'a pas aboutie
 
 
 ROUND 362
 
-Personnage5 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 29182 soit 28%  à  Personnage8
+Personnage8 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 46424 soit 43%  à  Personnage2
 
 
 ROUND 363
 
-Personnage6 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 41862 soit 46%  à  Personnage1
+Personnage8 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 20656 soit 19%  à  Personnage4
 
 
 ROUND 364
 
-Personnage6 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 34901 soit 38%  à  Personnage4
+l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
 
 
 ROUND 365
 
-Personnage9 attaque -> Personnage10
-Personnage10 ne réussit pas à ce défendre
-Personnage10 perd
-1892 de vie
- il ne reste plus que 9492 soit 11%  à  Personnage10
+l'attaque de Personnage5 sur Personnage10 n'a pas aboutie
 
 
 ROUND 366
 
-l'attaque de Personnage8 sur Personnage7 n'a pas aboutie
+Personnage9 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 44008 soit 55%  à  Personnage10
 
 
 ROUND 367
 
-l'attaque de Personnage4 sur Personnage9 n'a pas aboutie
+Personnage3 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 49469 soit 56%  à  Personnage5
 
 
 ROUND 368
 
-Personnage7 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 33549 soit 32%  à  Personnage4
+l'attaque de Personnage9 sur Personnage6 n'a pas aboutie
 
 
 ROUND 369
 
-Personnage4 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 30272 soit 25%  à  Personnage9
+l'attaque de Personnage6 sur Personnage9 n'a pas aboutie
 
 
 ROUND 370
 
-l'attaque de Personnage8 sur Personnage1 n'a pas aboutie
+Personnage8 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 24260 soit 22%  à  Personnage6
 
 
 ROUND 371
 
-Personnage7 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 29635 soit 28%  à  Personnage9
+Personnage4 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 43135 soit 75%  à  Personnage10
 
 
 ROUND 372
 
-Personnage4 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 43185 soit 36%  à  Personnage5
+Personnage10 attaque -> Personnage3
+Personnage3 ne réussit pas à ce défendre
+Personnage3 perd
+2386 de vie
+ il ne reste plus que 10465 soit 9%  à  Personnage3
 
 
 ROUND 373
 
-l'attaque de Personnage6 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage5 n'a pas aboutie
 
 
 ROUND 374
 
-l'attaque de Personnage7 sur Personnage9 n'a pas aboutie
+Personnage2 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 28689 soit 26%  à  Personnage7
 
 
 ROUND 375
 
-Personnage10 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 42624 soit 50%  à  Personnage5
+Personnage3 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 42699 soit 48%  à  Personnage10
 
 
 ROUND 376
 
-Personnage4 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 41582 soit 35%  à  Personnage1
+l'attaque de Personnage4 sur Personnage8 n'a pas aboutie
 
 
 ROUND 377
 
-Personnage6 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 41021 soit 45%  à  Personnage1
+l'attaque de Personnage7 sur Personnage9 n'a pas aboutie
 
 
 ROUND 378
 
-Personnage10 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 28545 soit 33%  à  Personnage8
+l'attaque de Personnage3 sur Personnage2 n'a pas aboutie
 
 
 ROUND 379
 
-Personnage4 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 28227 soit 23%  à  Personnage8
+Personnage3 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 27231 soit 31%  à  Personnage7
 
 
 ROUND 380
 
-l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
+l'attaque de Personnage3 sur Personnage2 n'a pas aboutie
 
 
 ROUND 381
 
-Personnage8 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 40460 soit 53%  à  Personnage1
+Personnage5 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 41826 soit 36%  à  Personnage10
 
 
 ROUND 382
 
-l'attaque de Personnage10 sur Personnage7 n'a pas aboutie
+Personnage8 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 20429 soit 19%  à  Personnage4
 
 
 ROUND 383
 
-Personnage8 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 32873 soit 43%  à  Personnage4
+l'attaque de Personnage10 sur Personnage8 n'a pas aboutie
 
 
 ROUND 384
 
-l'attaque de Personnage4 sur Personnage9 n'a pas aboutie
+l'attaque de Personnage9 sur Personnage10 n'a pas aboutie
 
 
 ROUND 385
 
-Personnage6 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 42063 soit 46%  à  Personnage5
+Personnage7 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 45969 soit 41%  à  Personnage2
 
 
 ROUND 386
 
-l'attaque de Personnage6 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage3 sur Personnage6 n'a pas aboutie
 
 
 ROUND 387
 
-Personnage5 attaque -> Personnage9
+Personnage8 attaque -> Personnage9
 Personnage9 ne réussit pas à ce défendre
 Personnage9 perd
-637 de vie
- il ne reste plus que 28998 soit 28%  à  Personnage9
+1458 de vie
+ il ne reste plus que 8241 soit 7%  à  Personnage9
 
 
 ROUND 388
 
-Personnage7 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 31521 soit 30%  à  Personnage4
+Personnage4 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 26502 soit 46%  à  Personnage7
 
 
 ROUND 389
 
-Personnage6 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 41783 soit 46%  à  Personnage5
+l'attaque de Personnage8 sur Personnage4 n'a pas aboutie
 
 
 ROUND 390
 
-Personnage1 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 21352 soit 20%  à  Personnage7
+Personnage3 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 45742 soit 52%  à  Personnage2
 
 
 ROUND 391
 
-Personnage5 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 28361 soit 27%  à  Personnage9
+Personnage7 attaque -> Personnage3
+mais Personnage3 à réussi à ce défendre
+Personnage3 perd
+1193 de vie
+ il ne reste plus que 9272 soit 8%  à  Personnage3
 
 
 ROUND 392
 
-Personnage6 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 30845 soit 34%  à  Personnage4
+l'attaque de Personnage9 sur Personnage5 n'a pas aboutie
 
 
 ROUND 393
 
-Personnage9 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 20323 soit 23%  à  Personnage7
+Personnage4 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 23935 soit 41%  à  Personnage6
 
 
 ROUND 394
 
-Personnage7 attaque -> Personnage10
-mais Personnage10 à réussi à ce défendre
-Personnage10 perd
-946 de vie
- il ne reste plus que 8546 soit 8%  à  Personnage10
+Personnage10 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 25044 soit 22%  à  Personnage7
 
 
 ROUND 395
 
-l'attaque de Personnage4 sur Personnage1 n'a pas aboutie
+Personnage2 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 19974 soit 18%  à  Personnage4
 
 
 ROUND 396
 
-Personnage8 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 41503 soit 54%  à  Personnage5
+l'attaque de Personnage6 sur Personnage7 n'a pas aboutie
 
 
 ROUND 397
 
-Personnage9 attaque -> Personnage6
-Personnage6 ne réussit pas à ce défendre
-Personnage6 perd
-2316 de vie
- il ne reste plus que 4520 soit 5%  à  Personnage6
+Personnage7 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 19747 soit 17%  à  Personnage4
 
 
 ROUND 398
 
-Personnage6 attaque -> Personnage7
-Personnage7 ne réussit pas à ce défendre
-Personnage7 perd
-2059 de vie
- il ne reste plus que 18264 soit 20%  à  Personnage7
+l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
 
 
 ROUND 399
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 40942 soit 38%  à  Personnage5
+l'attaque de Personnage6 sur Personnage10 n'a pas aboutie
 
 
 ROUND 400
 
-Personnage7 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 40381 soit 38%  à  Personnage5
+l'attaque de Personnage3 sur Personnage8 n'a pas aboutie
 
 
 ROUND 401
 
-Personnage6 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 40180 soit 44%  à  Personnage1
+l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
 
 
 ROUND 402
 
-Personnage1 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 29493 soit 27%  à  Personnage4
+Personnage5 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
+Personnage9 perd
+729 de vie
+ il ne reste plus que 7512 soit 6%  à  Personnage9
 
 
 ROUND 403
 
-l'attaque de Personnage8 sur Personnage4 n'a pas aboutie
+Personnage2 attaque -> Personnage3
+Personnage3 ne réussit pas à ce défendre
+Personnage3 perd
+2386 de vie
+ il ne reste plus que 6886 soit 6%  à  Personnage3
 
 
 ROUND 404
 
-Personnage4 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 27909 soit 23%  à  Personnage8
+l'attaque de Personnage8 sur Personnage2 n'a pas aboutie
 
 
 ROUND 405
 
-Personnage9 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 27272 soit 31%  à  Personnage8
+l'attaque de Personnage7 sur Personnage5 n'a pas aboutie
 
 
 ROUND 406
 
-Personnage10 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 26635 soit 31%  à  Personnage8
+l'attaque de Personnage3 sur Personnage9 n'a pas aboutie
 
 
 ROUND 407
 
-l'attaque de Personnage10 sur Personnage1 n'a pas aboutie
+Personnage8 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
+Personnage9 perd
+729 de vie
+ il ne reste plus que 6783 soit 6%  à  Personnage9
 
 
 ROUND 408
 
-l'attaque de Personnage5 sur Personnage6 n'a pas aboutie
+Personnage9 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 19292 soit 24%  à  Personnage4
 
 
 ROUND 409
 
-Personnage10 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 25998 soit 30%  à  Personnage8
+l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
 
 
 ROUND 410
 
-l'attaque de Personnage9 sur Personnage5 n'a pas aboutie
+Personnage3 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 49014 soit 55%  à  Personnage5
 
 
 ROUND 411
 
-l'attaque de Personnage6 sur Personnage10 n'a pas aboutie
+Personnage5 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
+Personnage9 perd
+729 de vie
+ il ne reste plus que 6054 soit 5%  à  Personnage9
 
 
 ROUND 412
 
-Personnage8 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 39900 soit 52%  à  Personnage1
+l'attaque de Personnage10 sur Personnage6 n'a pas aboutie
 
 
 ROUND 413
 
-Personnage4 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 40101 soit 33%  à  Personnage5
+Personnage10 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 24315 soit 21%  à  Personnage7
 
 
 ROUND 414
 
-Personnage1 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 27724 soit 26%  à  Personnage9
+l'attaque de Personnage4 sur Personnage3 n'a pas aboutie
 
 
 ROUND 415
 
-l'attaque de Personnage9 sur Personnage10 n'a pas aboutie
+Personnage2 attaque -> Personnage3
+Personnage3 ne réussit pas à ce défendre
+Personnage3 perd
+2386 de vie
+ il ne reste plus que 4500 soit 4%  à  Personnage3
 
 
 ROUND 416
 
-l'attaque de Personnage4 sur Personnage1 n'a pas aboutie
+Personnage5 attaque -> Personnage3
+Personnage3 ne réussit pas à ce défendre
+Personnage3 perd
+2386 de vie
+ il ne reste plus que 2114 soit 1%  à  Personnage3
 
 
 ROUND 417
 
-Personnage5 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 25361 soit 24%  à  Personnage8
+Personnage5 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 23610 soit 20%  à  Personnage6
 
 
 ROUND 418
 
-l'attaque de Personnage1 sur Personnage9 n'a pas aboutie
+Personnage8 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 40953 soit 38%  à  Personnage10
 
 
 ROUND 419
 
-Personnage1 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 28141 soit 26%  à  Personnage4
+l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
 
 
 ROUND 420
 
-l'attaque de Personnage6 sur Personnage7 n'a pas aboutie
+l'attaque de Personnage3 sur Personnage10 n'a pas aboutie
 
 
 ROUND 421
 
-l'attaque de Personnage7 sur Personnage1 n'a pas aboutie
+Personnage9 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 48787 soit 61%  à  Personnage5
 
 
 ROUND 422
 
-l'attaque de Personnage9 sur Personnage6 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage7 n'a pas aboutie
 
 
 ROUND 423
 
-l'attaque de Personnage4 sur Personnage1 n'a pas aboutie
+Personnage9 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 45515 soit 57%  à  Personnage2
 
 
 ROUND 424
 
-Personnage6 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 39821 soit 44%  à  Personnage5
+l'attaque de Personnage10 sur Personnage7 n'a pas aboutie
 
 
 ROUND 425
 
-Personnage7 attaque -> Personnage10
-Personnage10 ne réussit pas à ce défendre
-Personnage10 perd
-1892 de vie
- il ne reste plus que 6654 soit 6%  à  Personnage10
+Personnage3 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
+Personnage9 perd
+729 de vie
+ il ne reste plus que 5325 soit 6%  à  Personnage9
 
 
 ROUND 426
 
-l'attaque de Personnage1 sur Personnage4 n'a pas aboutie
+Personnage7 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 40080 soit 36%  à  Personnage10
 
 
 ROUND 427
 
-Personnage1 attaque -> Personnage10
-mais Personnage10 à réussi à ce défendre
-Personnage10 perd
-946 de vie
- il ne reste plus que 5708 soit 5%  à  Personnage10
+Personnage4 attaque -> Personnage9
+mais Personnage9 à réussi à ce défendre
+Personnage9 perd
+729 de vie
+ il ne reste plus que 4596 soit 8%  à  Personnage9
 
 
 ROUND 428
 
-Personnage4 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 39620 soit 33%  à  Personnage1
+l'attaque de Personnage7 sur Personnage10 n'a pas aboutie
 
 
 ROUND 429
 
-Personnage10 attaque -> Personnage6
-Personnage6 ne réussit pas à ce défendre
-Personnage6 perd
-2316 de vie
- il ne reste plus que 2204 soit 2%  à  Personnage6
+Personnage3 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 23586 soit 26%  à  Personnage7
 
 
 ROUND 430
 
-Personnage6 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 39541 soit 43%  à  Personnage5
+l'attaque de Personnage10 sur Personnage6 n'a pas aboutie
 
 
 ROUND 431
 
-Personnage7 attaque -> Personnage10
-mais Personnage10 à réussi à ce défendre
-Personnage10 perd
-946 de vie
- il ne reste plus que 4762 soit 4%  à  Personnage10
+Personnage10 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 22857 soit 20%  à  Personnage7
 
 
 ROUND 432
 
-Personnage10 attaque -> Personnage7
+Personnage5 attaque -> Personnage7
 Personnage7 ne réussit pas à ce défendre
 Personnage7 perd
-2059 de vie
- il ne reste plus que 16205 soit 19%  à  Personnage7
+1458 de vie
+ il ne reste plus que 21399 soit 18%  à  Personnage7
 
 
 ROUND 433
 
-Personnage10 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 27406 soit 32%  à  Personnage9
+l'attaque de Personnage4 sur Personnage3 n'a pas aboutie
 
 
 ROUND 434
 
-l'attaque de Personnage4 sur Personnage10 n'a pas aboutie
+Personnage9 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 45288 soit 57%  à  Personnage2
 
 
 ROUND 435
 
-l'attaque de Personnage5 sur Personnage7 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage2 n'a pas aboutie
 
 
 ROUND 436
 
-Personnage9 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 39261 soit 45%  à  Personnage5
+l'attaque de Personnage6 sur Personnage3 n'a pas aboutie
 
 
 ROUND 437
 
-l'attaque de Personnage9 sur Personnage8 n'a pas aboutie
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 44833 soit 78%  à  Personnage2
 
 
 ROUND 438
 
-Personnage10 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 27088 soit 31%  à  Personnage9
+Personnage9 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 39205 soit 49%  à  Personnage8
 
 
 ROUND 439
 
-Personnage8 attaque -> Personnage10
-mais Personnage10 à réussi à ce défendre
-Personnage10 perd
-946 de vie
- il ne reste plus que 3816 soit 5%  à  Personnage10
+l'attaque de Personnage9 sur Personnage10 n'a pas aboutie
 
 
 ROUND 440
 
-Personnage6 est eliminer
+l'attaque de Personnage9 sur Personnage6 n'a pas aboutie
+
+
 ROUND 441
 
-l'attaque de Personnage9 sur Personnage4 n'a pas aboutie
+Personnage9 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 23285 soit 29%  à  Personnage6
 
 
 ROUND 442
 
-Personnage5 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 26789 soit 26%  à  Personnage4
+Personnage10 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 48560 soit 43%  à  Personnage5
 
 
 ROUND 443
 
-l'attaque de Personnage10 sur Personnage8 n'a pas aboutie
+Personnage2 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 39644 soit 36%  à  Personnage10
 
 
 ROUND 444
 
-Personnage1 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 25437 soit 23%  à  Personnage4
+l'attaque de Personnage7 sur Personnage4 n'a pas aboutie
 
 
 ROUND 445
 
-Personnage10 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 24761 soit 29%  à  Personnage4
+Personnage4 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 38332 soit 66%  à  Personnage8
 
 
 ROUND 446
 
-Personnage9 attaque -> Personnage7
-Personnage7 ne réussit pas à ce défendre
-Personnage7 perd
-2059 de vie
- il ne reste plus que 14146 soit 16%  à  Personnage7
+l'attaque de Personnage6 sur Personnage2 n'a pas aboutie
 
 
 ROUND 447
 
-Personnage9 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 13117 soit 15%  à  Personnage7
+Personnage10 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 18837 soit 17%  à  Personnage4
 
 
 ROUND 448
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage3 n'a pas aboutie
 
 
 ROUND 449
 
-Personnage10 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 26770 soit 31%  à  Personnage9
+l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
 
 
 ROUND 450
 
-Personnage5 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 25043 soit 24%  à  Personnage8
+l'attaque de Personnage3 sur Personnage6 n'a pas aboutie
 
 
 ROUND 451
 
-Personnage4 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 38700 soit 32%  à  Personnage5
+Personnage8 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 18610 soit 17%  à  Personnage4
 
 
 ROUND 452
 
-Personnage4 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 24406 soit 20%  à  Personnage8
+l'attaque de Personnage7 sur Personnage8 n'a pas aboutie
 
 
 ROUND 453
 
-l'attaque de Personnage9 sur Personnage7 n'a pas aboutie
+l'attaque de Personnage3 sur Personnage6 n'a pas aboutie
 
 
 ROUND 454
 
-Personnage5 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 26133 soit 25%  à  Personnage9
+Personnage4 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 22635 soit 39%  à  Personnage6
 
 
 ROUND 455
 
-Personnage7 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 25496 soit 24%  à  Personnage9
+l'attaque de Personnage6 sur Personnage7 n'a pas aboutie
 
 
 ROUND 456
 
-Personnage8 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 38139 soit 50%  à  Personnage5
+Personnage4 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 44606 soit 77%  à  Personnage2
 
 
 ROUND 457
 
-Personnage4 attaque -> Personnage7
-Personnage7 ne réussit pas à ce défendre
-Personnage7 perd
-2059 de vie
- il ne reste plus que 11058 soit 9%  à  Personnage7
+Personnage8 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 48333 soit 45%  à  Personnage5
 
 
 ROUND 458
 
-Personnage4 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 39340 soit 33%  à  Personnage1
+Personnage2 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 37459 soit 34%  à  Personnage8
 
 
 ROUND 459
 
-l'attaque de Personnage7 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage7 n'a pas aboutie
 
 
 ROUND 460
 
-l'attaque de Personnage5 sur Personnage10 n'a pas aboutie
+Personnage9 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 48106 soit 60%  à  Personnage5
 
 
 ROUND 461
 
-l'attaque de Personnage5 sur Personnage7 n'a pas aboutie
+Personnage7 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 47879 soit 43%  à  Personnage5
 
 
 ROUND 462
 
-Personnage8 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 38779 soit 51%  à  Personnage1
+Personnage9 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 22310 soit 28%  à  Personnage6
 
 
 ROUND 463
 
-l'attaque de Personnage1 sur Personnage10 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage2 n'a pas aboutie
 
 
 ROUND 464
 
-Personnage1 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 24859 soit 23%  à  Personnage9
+Personnage4 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 39208 soit 68%  à  Personnage10
 
 
 ROUND 465
 
-l'attaque de Personnage1 sur Personnage10 n'a pas aboutie
+Personnage9 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 38772 soit 48%  à  Personnage10
 
 
 ROUND 466
 
-Personnage9 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 23769 soit 27%  à  Personnage8
+Personnage9 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 21985 soit 27%  à  Personnage6
 
 
 ROUND 467
 
-Personnage9 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 10029 soit 11%  à  Personnage7
+Personnage3 est eliminer tuer par Personnage6 
 
 
 ROUND 468
 
-Personnage9 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 37578 soit 43%  à  Personnage5
+l'attaque de Personnage7 sur Personnage6 n'a pas aboutie
 
 
 ROUND 469
 
-Personnage8 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 24222 soit 32%  à  Personnage9
+Personnage2 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 19941 soit 18%  à  Personnage7
 
 
 ROUND 470
 
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage6 n'a pas aboutie
 
 
 ROUND 471
 
-Personnage9 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 37298 soit 43%  à  Personnage5
+l'attaque de Personnage7 sur Personnage6 n'a pas aboutie
 
 
 ROUND 472
 
-l'attaque de Personnage1 sur Personnage4 n'a pas aboutie
+l'attaque de Personnage4 sur Personnage6 n'a pas aboutie
 
 
 ROUND 473
 
-l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
+Personnage6 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 44379 soit 64%  à  Personnage2
 
 
 ROUND 474
 
-Personnage10 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 23132 soit 27%  à  Personnage8
+l'attaque de Personnage10 sur Personnage6 n'a pas aboutie
 
 
 ROUND 475
 
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
+Personnage9 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 37023 soit 46%  à  Personnage8
 
 
 ROUND 476
 
-l'attaque de Personnage8 sur Personnage4 n'a pas aboutie
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 47424 soit 44%  à  Personnage5
 
 
 ROUND 477
 
-Personnage10 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 23585 soit 27%  à  Personnage9
+Personnage5 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 21660 soit 19%  à  Personnage6
 
 
 ROUND 478
 
-Personnage7 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 23409 soit 22%  à  Personnage4
+Personnage8 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 21335 soit 20%  à  Personnage6
 
 
 ROUND 479
 
-Personnage7 attaque -> Personnage10
-mais Personnage10 à réussi à ce défendre
-Personnage10 perd
-946 de vie
- il ne reste plus que 2870 soit 2%  à  Personnage10
+Personnage5 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 21010 soit 18%  à  Personnage6
 
 
 ROUND 480
 
-l'attaque de Personnage9 sur Personnage7 n'a pas aboutie
+Personnage10 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 18155 soit 16%  à  Personnage4
 
 
 ROUND 481
 
-l'attaque de Personnage8 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage9 n'a pas aboutie
 
 
 ROUND 482
 
-Personnage5 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 22814 soit 22%  à  Personnage8
+Personnage7 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 44152 soit 40%  à  Personnage2
 
 
 ROUND 483
 
-l'attaque de Personnage1 sur Personnage7 n'a pas aboutie
+Personnage8 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 18483 soit 17%  à  Personnage7
 
 
 ROUND 484
 
-Personnage1 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 22057 soit 20%  à  Personnage4
+l'attaque de Personnage6 sur Personnage7 n'a pas aboutie
 
 
 ROUND 485
 
-Personnage9 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 9000 soit 10%  à  Personnage7
+Personnage10 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 36587 soit 33%  à  Personnage8
 
 
 ROUND 486
 
-l'attaque de Personnage4 sur Personnage10 n'a pas aboutie
+Personnage9 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 43925 soit 55%  à  Personnage2
 
 
 ROUND 487
 
-Personnage8 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 20705 soit 27%  à  Personnage4
+Personnage4 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 38336 soit 66%  à  Personnage10
 
 
 ROUND 488
 
-Personnage9 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 7971 soit 9%  à  Personnage7
+Personnage10 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 47197 soit 42%  à  Personnage5
 
 
 ROUND 489
 
-Personnage1 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 6942 soit 6%  à  Personnage7
+l'attaque de Personnage8 sur Personnage4 n'a pas aboutie
 
 
 ROUND 490
 
-Personnage9 attaque -> Personnage10
-mais Personnage10 à réussi à ce défendre
-Personnage10 perd
-946 de vie
- il ne reste plus que 1924 soit 2%  à  Personnage10
+l'attaque de Personnage7 sur Personnage4 n'a pas aboutie
 
 
 ROUND 491
@@ -3617,3580 +3594,5475 @@ l'attaque de Personnage10 sur Personnage4 n'a pas aboutie
 
 ROUND 492
 
-Personnage5 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 19353 soit 18%  à  Personnage4
+l'attaque de Personnage6 sur Personnage2 n'a pas aboutie
 
 
 ROUND 493
 
-Personnage8 attaque -> Personnage10
-mais Personnage10 à réussi à ce défendre
-Personnage10 perd
-946 de vie
- il ne reste plus que 978 soit 1%  à  Personnage10
+l'attaque de Personnage10 sur Personnage4 n'a pas aboutie
 
 
 ROUND 494
 
-Personnage8 attaque -> Personnage10
-mais Personnage10 à réussi à ce défendre
-Personnage10 perd
-946 de vie
- il ne reste plus que 32 soit 0%  à  Personnage10
+l'attaque de Personnage5 sur Personnage6 n'a pas aboutie
 
 
 ROUND 495
 
-Personnage7 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 38218 soit 36%  à  Personnage1
+l'attaque de Personnage6 sur Personnage2 n'a pas aboutie
 
 
 ROUND 496
 
-Personnage10 est eliminer
+Personnage5 attaque -> Personnage9
+Personnage9 ne réussit pas à ce défendre
+Personnage9 perd
+1458 de vie
+ il ne reste plus que 3138 soit 2%  à  Personnage9
+
+
 ROUND 497
-
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
-
-
-ROUND 498
-
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 23267 soit 30%  à  Personnage9
-
-
-ROUND 499
-
-Personnage1 attaque -> Personnage7
-Personnage7 ne réussit pas à ce défendre
-Personnage7 perd
-2059 de vie
- il ne reste plus que 4883 soit 4%  à  Personnage7
-
-
-ROUND 500
-
-l'attaque de Personnage9 sur Personnage4 n'a pas aboutie
-
-
-ROUND 501
-
-l'attaque de Personnage8 sur Personnage1 n'a pas aboutie
-
-
-ROUND 502
-
-Personnage4 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 36737 soit 31%  à  Personnage5
-
-
-ROUND 503
-
-l'attaque de Personnage4 sur Personnage8 n'a pas aboutie
-
-
-ROUND 504
-
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
-
-
-ROUND 505
-
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 22949 soit 30%  à  Personnage9
-
-
-ROUND 506
-
-l'attaque de Personnage1 sur Personnage8 n'a pas aboutie
-
-
-ROUND 507
-
-Personnage8 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 18677 soit 24%  à  Personnage4
-
-
-ROUND 508
-
-l'attaque de Personnage8 sur Personnage7 n'a pas aboutie
-
-
-ROUND 509
-
-l'attaque de Personnage7 sur Personnage1 n'a pas aboutie
-
-
-ROUND 510
-
-Personnage5 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 22631 soit 22%  à  Personnage9
-
-
-ROUND 511
-
-Personnage4 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 36457 soit 30%  à  Personnage5
-
-
-ROUND 512
-
-Personnage9 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 18001 soit 20%  à  Personnage4
-
-
-ROUND 513
-
-Personnage5 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 22177 soit 21%  à  Personnage8
-
-
-ROUND 514
-
-Personnage4 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 37657 soit 31%  à  Personnage1
-
-
-ROUND 515
-
-l'attaque de Personnage9 sur Personnage1 n'a pas aboutie
-
-
-ROUND 516
-
-Personnage8 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 35896 soit 47%  à  Personnage5
-
-
-ROUND 517
-
-Personnage1 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 21859 soit 20%  à  Personnage8
-
-
-ROUND 518
-
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 22313 soit 29%  à  Personnage9
-
-
-ROUND 519
-
-Personnage1 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 17325 soit 16%  à  Personnage4
-
-
-ROUND 520
-
-Personnage5 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 21995 soit 21%  à  Personnage9
-
-
-ROUND 521
-
-Personnage7 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 16649 soit 15%  à  Personnage4
-
-
-ROUND 522
-
-l'attaque de Personnage1 sur Personnage9 n'a pas aboutie
-
-
-ROUND 523
-
-l'attaque de Personnage8 sur Personnage9 n'a pas aboutie
-
-
-ROUND 524
-
-Personnage4 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 21358 soit 18%  à  Personnage9
-
-
-ROUND 525
-
-Personnage9 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 37096 soit 43%  à  Personnage1
-
-
-ROUND 526
-
-Personnage7 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 20721 soit 19%  à  Personnage9
-
-
-ROUND 527
-
-Personnage9 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 35616 soit 41%  à  Personnage5
-
-
-ROUND 528
-
-Personnage7 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 15297 soit 14%  à  Personnage4
-
-
-ROUND 529
-
-Personnage5 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 13945 soit 13%  à  Personnage4
-
-
-ROUND 530
-
-l'attaque de Personnage8 sur Personnage1 n'a pas aboutie
-
-
-ROUND 531
-
-Personnage9 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 21222 soit 24%  à  Personnage8
-
-
-ROUND 532
-
-l'attaque de Personnage4 sur Personnage1 n'a pas aboutie
-
-
-ROUND 533
-
-l'attaque de Personnage5 sur Personnage7 n'a pas aboutie
-
-
-ROUND 534
-
-Personnage5 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 13269 soit 12%  à  Personnage4
-
-
-ROUND 535
-
-l'attaque de Personnage7 sur Personnage1 n'a pas aboutie
-
-
-ROUND 536
-
-Personnage4 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 35336 soit 29%  à  Personnage5
-
-
-ROUND 537
-
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 20403 soit 27%  à  Personnage9
-
-
-ROUND 538
-
-l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
-
-
-ROUND 539
-
-Personnage1 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 20085 soit 18%  à  Personnage9
-
-
-ROUND 540
-
-l'attaque de Personnage9 sur Personnage1 n'a pas aboutie
-
-
-ROUND 541
-
-Personnage5 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 20904 soit 20%  à  Personnage8
-
-
-ROUND 542
-
-Personnage8 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 19448 soit 25%  à  Personnage9
-
-
-ROUND 543
-
-Personnage7 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 35056 soit 33%  à  Personnage5
-
-
-ROUND 544
-
-l'attaque de Personnage7 sur Personnage1 n'a pas aboutie
-
-
-ROUND 545
-
-Personnage5 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 11917 soit 11%  à  Personnage4
-
-
-ROUND 546
-
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 34495 soit 32%  à  Personnage5
-
-
-ROUND 547
-
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 34215 soit 32%  à  Personnage5
-
-
-ROUND 548
-
-Personnage8 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 33935 soit 44%  à  Personnage5
-
-
-ROUND 549
-
-l'attaque de Personnage9 sur Personnage7 n'a pas aboutie
-
-
-ROUND 550
-
-Personnage4 attaque -> Personnage7
-Personnage7 ne réussit pas à ce défendre
-Personnage7 perd
-2059 de vie
- il ne reste plus que 2824 soit 2%  à  Personnage7
-
-
-ROUND 551
-
-Personnage7 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 20586 soit 19%  à  Personnage8
-
-
-ROUND 552
-
-l'attaque de Personnage8 sur Personnage4 n'a pas aboutie
-
-
-ROUND 553
-
-l'attaque de Personnage9 sur Personnage7 n'a pas aboutie
-
-
-ROUND 554
-
-Personnage5 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 19130 soit 18%  à  Personnage9
-
-
-ROUND 555
-
-Personnage4 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 19949 soit 16%  à  Personnage8
-
-
-ROUND 556
-
-Personnage4 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 33655 soit 28%  à  Personnage5
-
-
-ROUND 557
-
-Personnage1 attaque -> Personnage7
-mais Personnage7 à réussi à ce défendre
-Personnage7 perd
-1029 de vie
- il ne reste plus que 1795 soit 1%  à  Personnage7
-
-
-ROUND 558
-
-Personnage9 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 36535 soit 42%  à  Personnage1
-
-
-ROUND 559
-
-l'attaque de Personnage1 sur Personnage8 n'a pas aboutie
-
-
-ROUND 560
-
-Personnage4 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 18493 soit 15%  à  Personnage9
-
-
-ROUND 561
-
-Personnage1 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 19312 soit 18%  à  Personnage8
-
-
-ROUND 562
-
-l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
-
-
-ROUND 563
-
-Personnage1 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 17856 soit 16%  à  Personnage9
-
-
-ROUND 564
-
-Personnage7 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 35974 soit 34%  à  Personnage1
-
-
-ROUND 565
-
-Personnage1 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 17538 soit 16%  à  Personnage9
-
-
-ROUND 566
-
-l'attaque de Personnage5 sur Personnage7 n'a pas aboutie
-
-
-ROUND 567
-
-l'attaque de Personnage1 sur Personnage9 n'a pas aboutie
-
-
-ROUND 568
-
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
-
-
-ROUND 569
-
-Personnage7 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 18675 soit 17%  à  Personnage8
-
-
-ROUND 570
-
-l'attaque de Personnage4 sur Personnage8 n'a pas aboutie
-
-
-ROUND 571
-
-Personnage7 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 11241 soit 10%  à  Personnage4
-
-
-ROUND 572
-
-Personnage8 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 33375 soit 44%  à  Personnage5
-
-
-ROUND 573
-
-Personnage4 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 32814 soit 27%  à  Personnage5
-
-
-ROUND 574
 
 l'attaque de Personnage7 sur Personnage9 n'a pas aboutie
 
 
-ROUND 575
+ROUND 498
 
-l'attaque de Personnage5 sur Personnage7 n'a pas aboutie
-
-
-ROUND 576
-
-Personnage7 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 17220 soit 16%  à  Personnage9
+l'attaque de Personnage9 sur Personnage10 n'a pas aboutie
 
 
-ROUND 577
+ROUND 499
 
-Personnage4 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 18357 soit 15%  à  Personnage8
+l'attaque de Personnage9 sur Personnage7 n'a pas aboutie
 
 
-ROUND 578
+ROUND 500
 
-Personnage8 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 32253 soit 42%  à  Personnage5
+Personnage10 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 43698 soit 39%  à  Personnage2
 
 
-ROUND 579
+ROUND 501
 
-Personnage1 attaque -> Personnage7
+Personnage2 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 17025 soit 15%  à  Personnage7
+
+
+ROUND 502
+
+l'attaque de Personnage2 sur Personnage7 n'a pas aboutie
+
+
+ROUND 503
+
+Personnage10 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 43471 soit 39%  à  Personnage2
+
+
+ROUND 504
+
+Personnage2 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 20685 soit 19%  à  Personnage6
+
+
+ROUND 505
+
+Personnage8 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 37900 soit 35%  à  Personnage10
+
+
+ROUND 506
+
+Personnage8 attaque -> Personnage7
 mais Personnage7 à réussi à ce défendre
 Personnage7 perd
-1029 de vie
- il ne reste plus que 766 soit 0%  à  Personnage7
+729 de vie
+ il ne reste plus que 16296 soit 15%  à  Personnage7
 
 
-ROUND 580
-
-Personnage7 est eliminer
-ROUND 581
-
-Personnage1 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 16902 soit 15%  à  Personnage9
-
-
-ROUND 582
-
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
-
-
-ROUND 583
-
-Personnage9 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 31973 soit 37%  à  Personnage5
-
-
-ROUND 584
-
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
-
-
-ROUND 585
-
-l'attaque de Personnage1 sur Personnage9 n'a pas aboutie
-
-
-ROUND 586
-
-l'attaque de Personnage8 sur Personnage9 n'a pas aboutie
-
-
-ROUND 587
-
-Personnage8 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 35694 soit 47%  à  Personnage1
-
-
-ROUND 588
-
-Personnage4 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 16265 soit 13%  à  Personnage9
-
-
-ROUND 589
-
-l'attaque de Personnage9 sur Personnage1 n'a pas aboutie
-
-
-ROUND 590
-
-l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
-
-
-ROUND 591
+ROUND 507
 
 Personnage5 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 9889 soit 9%  à  Personnage4
-
-
-ROUND 592
-
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
-
-
-ROUND 593
-
-Personnage9 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 35414 soit 41%  à  Personnage1
-
-
-ROUND 594
-
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
-
-
-ROUND 595
-
-l'attaque de Personnage9 sur Personnage4 n'a pas aboutie
-
-
-ROUND 596
-
-l'attaque de Personnage1 sur Personnage4 n'a pas aboutie
-
-
-ROUND 597
-
-Personnage5 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 15947 soit 15%  à  Personnage9
-
-
-ROUND 598
-
-Personnage4 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 18039 soit 15%  à  Personnage8
-
-
-ROUND 599
-
-l'attaque de Personnage9 sur Personnage1 n'a pas aboutie
-
-
-ROUND 600
-
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
-
-
-ROUND 601
-
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 31412 soit 29%  à  Personnage5
-
-
-ROUND 602
-
-Personnage8 attaque -> Personnage4
 mais Personnage4 à réussi à ce défendre
 Personnage4 perd
-676 de vie
- il ne reste plus que 9213 soit 12%  à  Personnage4
+227 de vie
+ il ne reste plus que 17928 soit 15%  à  Personnage4
 
 
-ROUND 603
+ROUND 508
 
-Personnage8 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 7861 soit 10%  à  Personnage4
+Personnage2 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 14838 soit 13%  à  Personnage7
 
 
-ROUND 604
+ROUND 509
+
+l'attaque de Personnage6 sur Personnage5 n'a pas aboutie
+
+
+ROUND 510
+
+Personnage9 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 43016 soit 54%  à  Personnage2
+
+
+ROUND 511
+
+Personnage5 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 20035 soit 17%  à  Personnage6
+
+
+ROUND 512
+
+Personnage5 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 37464 soit 33%  à  Personnage10
+
+
+ROUND 513
+
+Personnage2 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 14109 soit 13%  à  Personnage7
+
+
+ROUND 514
+
+Personnage7 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 36591 soit 33%  à  Personnage10
+
+
+ROUND 515
 
 Personnage5 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
+mais Personnage4 à réussi à ce défendre
 Personnage4 perd
-1352 de vie
- il ne reste plus que 6509 soit 6%  à  Personnage4
+227 de vie
+ il ne reste plus que 17701 soit 15%  à  Personnage4
 
 
-ROUND 605
-
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
-
-
-ROUND 606
+ROUND 516
 
 Personnage8 attaque -> Personnage9
 Personnage9 ne réussit pas à ce défendre
 Personnage9 perd
-637 de vie
- il ne reste plus que 15310 soit 20%  à  Personnage9
+1458 de vie
+ il ne reste plus que 1680 soit 1%  à  Personnage9
 
 
-ROUND 607
+ROUND 517
 
-Personnage4 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 17721 soit 14%  à  Personnage8
+Personnage5 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 12651 soit 11%  à  Personnage7
 
 
-ROUND 608
+ROUND 518
 
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
+Personnage6 attaque -> Personnage9
+Personnage9 ne réussit pas à ce défendre
 Personnage9 perd
-318 de vie
- il ne reste plus que 14992 soit 19%  à  Personnage9
+1458 de vie
+ il ne reste plus que 222 soit 0%  à  Personnage9
 
 
-ROUND 609
+ROUND 519
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 31132 soit 29%  à  Personnage5
-
-
-ROUND 610
-
-l'attaque de Personnage9 sur Personnage4 n'a pas aboutie
-
-
-ROUND 611
-
-Personnage4 attaque -> Personnage8
+Personnage9 attaque -> Personnage8
 Personnage8 ne réussit pas à ce défendre
 Personnage8 perd
-637 de vie
- il ne reste plus que 17084 soit 14%  à  Personnage8
+873 de vie
+ il ne reste plus que 35714 soit 45%  à  Personnage8
 
 
-ROUND 612
+ROUND 520
 
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 14674 soit 19%  à  Personnage9
-
-
-ROUND 613
-
-Personnage8 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 5157 soit 6%  à  Personnage4
+Personnage4 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 19385 soit 33%  à  Personnage6
 
 
-ROUND 614
+ROUND 521
 
-Personnage5 attaque -> Personnage4
-mais Personnage4 à réussi à ce défendre
-Personnage4 perd
-676 de vie
- il ne reste plus que 4481 soit 4%  à  Personnage4
-
-
-ROUND 615
-
-l'attaque de Personnage1 sur Personnage4 n'a pas aboutie
+Personnage9 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 36155 soit 45%  à  Personnage10
 
 
-ROUND 616
+ROUND 522
 
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
-
-
-ROUND 617
-
-Personnage1 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 14037 soit 13%  à  Personnage9
+Personnage2 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 11922 soit 11%  à  Personnage7
 
 
-ROUND 618
+ROUND 523
 
-l'attaque de Personnage1 sur Personnage9 n'a pas aboutie
-
-
-ROUND 619
-
-l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
+l'attaque de Personnage7 sur Personnage10 n'a pas aboutie
 
 
-ROUND 620
-
-l'attaque de Personnage9 sur Personnage1 n'a pas aboutie
-
-
-ROUND 621
-
-l'attaque de Personnage4 sur Personnage9 n'a pas aboutie
-
-
-ROUND 622
-
-Personnage1 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
-Personnage4 perd
-1352 de vie
- il ne reste plus que 3129 soit 2%  à  Personnage4
-
-
-ROUND 623
-
-Personnage4 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 30852 soit 26%  à  Personnage5
-
-
-ROUND 624
-
-Personnage9 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 30572 soit 35%  à  Personnage5
-
-
-ROUND 625
+ROUND 524
 
 l'attaque de Personnage8 sur Personnage9 n'a pas aboutie
 
 
-ROUND 626
+ROUND 525
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage8 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 10464 soit 9%  à  Personnage7
 
 
-ROUND 627
+ROUND 526
+
+l'attaque de Personnage4 sur Personnage10 n'a pas aboutie
+
+
+ROUND 527
+
+Personnage8 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 17474 soit 16%  à  Personnage4
+
+
+ROUND 528
+
+l'attaque de Personnage9 sur Personnage2 n'a pas aboutie
+
+
+ROUND 529
+
+l'attaque de Personnage7 sur Personnage5 n'a pas aboutie
+
+
+ROUND 530
+
+l'attaque de Personnage9 sur Personnage6 n'a pas aboutie
+
+
+ROUND 531
+
+Personnage5 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 18735 soit 16%  à  Personnage6
+
+
+ROUND 532
+
+l'attaque de Personnage6 sur Personnage8 n'a pas aboutie
+
+
+ROUND 533
+
+l'attaque de Personnage10 sur Personnage2 n'a pas aboutie
+
+
+ROUND 534
+
+l'attaque de Personnage5 sur Personnage6 n'a pas aboutie
+
+
+ROUND 535
+
+l'attaque de Personnage2 sur Personnage6 n'a pas aboutie
+
+
+ROUND 536
+
+l'attaque de Personnage5 sur Personnage6 n'a pas aboutie
+
+
+ROUND 537
 
 Personnage5 attaque -> Personnage4
-Personnage4 ne réussit pas à ce défendre
+mais Personnage4 à réussi à ce défendre
 Personnage4 perd
-1352 de vie
- il ne reste plus que 1777 soit 1%  à  Personnage4
+227 de vie
+ il ne reste plus que 17247 soit 15%  à  Personnage4
 
 
-ROUND 628
-
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 34853 soit 33%  à  Personnage1
-
-
-ROUND 629
-
-Personnage5 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 13400 soit 13%  à  Personnage9
-
-
-ROUND 630
-
-Personnage4 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 12763 soit 10%  à  Personnage9
-
-
-ROUND 631
-
-l'attaque de Personnage1 sur Personnage8 n'a pas aboutie
-
-
-ROUND 632
-
-Personnage9 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 34573 soit 40%  à  Personnage1
-
-
-ROUND 633
-
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
-
-
-ROUND 634
-
-Personnage1 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 16766 soit 15%  à  Personnage8
-
-
-ROUND 635
+ROUND 538
 
 Personnage9 attaque -> Personnage4
 Personnage4 ne réussit pas à ce défendre
 Personnage4 perd
-1352 de vie
- il ne reste plus que 425 soit 0%  à  Personnage4
+455 de vie
+ il ne reste plus que 16792 soit 21%  à  Personnage4
 
 
-ROUND 636
+ROUND 539
 
-Personnage9 attaque -> Personnage5
+l'attaque de Personnage7 sur Personnage8 n'a pas aboutie
+
+
+ROUND 540
+
+l'attaque de Personnage5 sur Personnage10 n'a pas aboutie
+
+
+ROUND 541
+
+l'attaque de Personnage2 sur Personnage6 n'a pas aboutie
+
+
+ROUND 542
+
+Personnage7 attaque -> Personnage5
 mais Personnage5 à réussi à ce défendre
 Personnage5 perd
-280 de vie
- il ne reste plus que 30292 soit 35%  à  Personnage5
+227 de vie
+ il ne reste plus que 46970 soit 42%  à  Personnage5
 
 
-ROUND 637
+ROUND 543
 
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 12445 soit 16%  à  Personnage9
+l'attaque de Personnage6 sur Personnage9 n'a pas aboutie
 
 
-ROUND 638
+ROUND 544
 
-Personnage5 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 16448 soit 16%  à  Personnage8
-
-
-ROUND 639
-
-l'attaque de Personnage4 sur Personnage1 n'a pas aboutie
+Personnage7 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 16337 soit 14%  à  Personnage4
 
 
-ROUND 640
+ROUND 545
 
-Personnage9 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
+l'attaque de Personnage6 sur Personnage5 n'a pas aboutie
+
+
+ROUND 546
+
+l'attaque de Personnage6 sur Personnage7 n'a pas aboutie
+
+
+ROUND 547
+
+Personnage4 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
 Personnage5 perd
-561 de vie
- il ne reste plus que 29731 soit 34%  à  Personnage5
+227 de vie
+ il ne reste plus que 46743 soit 81%  à  Personnage5
 
 
-ROUND 641
+ROUND 548
 
-l'attaque de Personnage9 sur Personnage5 n'a pas aboutie
-
-
-ROUND 642
-
-Personnage1 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 11808 soit 11%  à  Personnage9
+Personnage8 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 9735 soit 9%  à  Personnage7
 
 
-ROUND 643
+ROUND 549
 
-Personnage9 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 15811 soit 18%  à  Personnage8
-
-
-ROUND 644
-
-l'attaque de Personnage1 sur Personnage4 n'a pas aboutie
+Personnage5 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 15882 soit 13%  à  Personnage4
 
 
-ROUND 645
+ROUND 550
 
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
-
-
-ROUND 646
-
-l'attaque de Personnage8 sur Personnage9 n'a pas aboutie
+l'attaque de Personnage4 sur Personnage6 n'a pas aboutie
 
 
-ROUND 647
+ROUND 551
+
+Personnage7 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 18085 soit 16%  à  Personnage6
+
+
+ROUND 552
+
+Personnage9 est eliminer tuer par Personnage8 
+
+
+ROUND 553
+
+Personnage10 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 15655 soit 14%  à  Personnage4
+
+
+ROUND 554
+
+Personnage4 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 17435 soit 30%  à  Personnage6
+
+
+ROUND 555
+
+Personnage4 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 35282 soit 61%  à  Personnage10
+
+
+ROUND 556
+
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 42561 soit 74%  à  Personnage2
+
+
+ROUND 557
+
+Personnage7 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 17110 soit 15%  à  Personnage6
+
+
+ROUND 558
+
+Personnage4 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 34846 soit 60%  à  Personnage10
+
+
+ROUND 559
 
 l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
 
 
-ROUND 648
+ROUND 560
+
+Personnage10 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 16460 soit 14%  à  Personnage6
+
+
+ROUND 561
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 46288 soit 43%  à  Personnage5
+
+
+ROUND 562
+
+Personnage8 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 9006 soit 8%  à  Personnage7
+
+
+ROUND 563
+
+l'attaque de Personnage7 sur Personnage4 n'a pas aboutie
+
+
+ROUND 564
 
 Personnage8 attaque -> Personnage5
 Personnage5 ne réussit pas à ce défendre
 Personnage5 perd
-561 de vie
- il ne reste plus que 29170 soit 38%  à  Personnage5
+455 de vie
+ il ne reste plus que 45833 soit 43%  à  Personnage5
 
 
-ROUND 649
+ROUND 565
 
-l'attaque de Personnage1 sur Personnage8 n'a pas aboutie
-
-
-ROUND 650
-
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 34012 soit 33%  à  Personnage1
+l'attaque de Personnage5 sur Personnage6 n'a pas aboutie
 
 
-ROUND 651
+ROUND 566
 
-l'attaque de Personnage9 sur Personnage1 n'a pas aboutie
+Personnage4 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 45378 soit 79%  à  Personnage5
 
 
-ROUND 652
+ROUND 567
 
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
+Personnage4 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 34410 soit 60%  à  Personnage10
 
 
-ROUND 653
+ROUND 568
+
+Personnage2 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 15810 soit 14%  à  Personnage6
+
+
+ROUND 569
+
+Personnage2 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 35278 soit 32%  à  Personnage8
+
+
+ROUND 570
+
+Personnage4 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 44923 soit 78%  à  Personnage5
+
+
+ROUND 571
+
+l'attaque de Personnage7 sur Personnage2 n'a pas aboutie
+
+
+ROUND 572
+
+l'attaque de Personnage5 sur Personnage7 n'a pas aboutie
+
+
+ROUND 573
+
+l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
+
+
+ROUND 574
+
+l'attaque de Personnage6 sur Personnage8 n'a pas aboutie
+
+
+ROUND 575
+
+l'attaque de Personnage5 sur Personnage10 n'a pas aboutie
+
+
+ROUND 576
+
+l'attaque de Personnage6 sur Personnage4 n'a pas aboutie
+
+
+ROUND 577
+
+l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
+
+
+ROUND 578
+
+Personnage2 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 34842 soit 32%  à  Personnage8
+
+
+ROUND 579
+
+l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
+
+
+ROUND 580
+
+l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
+
+
+ROUND 581
+
+Personnage8 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 33537 soit 31%  à  Personnage10
+
+
+ROUND 582
+
+Personnage10 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 42106 soit 38%  à  Personnage2
+
+
+ROUND 583
+
+Personnage6 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 33969 soit 49%  à  Personnage8
+
+
+ROUND 584
 
 Personnage4 attaque -> Personnage8
 Personnage8 ne réussit pas à ce défendre
 Personnage8 perd
-637 de vie
- il ne reste plus que 15174 soit 12%  à  Personnage8
+873 de vie
+ il ne reste plus que 33096 soit 57%  à  Personnage8
+
+
+ROUND 585
+
+Personnage10 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 15428 soit 13%  à  Personnage4
+
+
+ROUND 586
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 587
+
+l'attaque de Personnage2 sur Personnage8 n'a pas aboutie
+
+
+ROUND 588
+
+l'attaque de Personnage5 sur Personnage6 n'a pas aboutie
+
+
+ROUND 589
+
+l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
+
+
+ROUND 590
+
+Personnage8 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 44696 soit 42%  à  Personnage5
+
+
+ROUND 591
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 592
+
+Personnage7 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 32664 soit 29%  à  Personnage10
+
+
+ROUND 593
+
+Personnage6 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 31791 soit 45%  à  Personnage10
+
+
+ROUND 594
+
+Personnage7 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 30918 soit 28%  à  Personnage10
+
+
+ROUND 595
+
+Personnage6 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 8277 soit 11%  à  Personnage7
+
+
+ROUND 596
+
+l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
+
+
+ROUND 597
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 598
+
+Personnage6 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 30045 soit 43%  à  Personnage10
+
+
+ROUND 599
+
+Personnage2 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 29172 soit 27%  à  Personnage10
+
+
+ROUND 600
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 44241 soit 41%  à  Personnage5
+
+
+ROUND 601
+
+Personnage8 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 6819 soit 6%  à  Personnage7
+
+
+ROUND 602
+
+l'attaque de Personnage2 sur Personnage7 n'a pas aboutie
+
+
+ROUND 603
+
+Personnage6 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 41879 soit 60%  à  Personnage2
+
+
+ROUND 604
+
+Personnage7 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 14973 soit 13%  à  Personnage4
+
+
+ROUND 605
+
+Personnage6 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 14746 soit 21%  à  Personnage4
+
+
+ROUND 606
+
+l'attaque de Personnage10 sur Personnage6 n'a pas aboutie
+
+
+ROUND 607
+
+Personnage8 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 15485 soit 14%  à  Personnage6
+
+
+ROUND 608
+
+Personnage8 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 14835 soit 13%  à  Personnage6
+
+
+ROUND 609
+
+Personnage6 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 28736 soit 41%  à  Personnage10
+
+
+ROUND 610
+
+Personnage5 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 6090 soit 5%  à  Personnage7
+
+
+ROUND 611
+
+l'attaque de Personnage8 sur Personnage7 n'a pas aboutie
+
+
+ROUND 612
+
+Personnage5 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 32660 soit 28%  à  Personnage8
+
+
+ROUND 613
+
+Personnage5 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 32224 soit 28%  à  Personnage8
+
+
+ROUND 614
+
+l'attaque de Personnage10 sur Personnage5 n'a pas aboutie
+
+
+ROUND 615
+
+l'attaque de Personnage10 sur Personnage5 n'a pas aboutie
+
+
+ROUND 616
+
+l'attaque de Personnage6 sur Personnage2 n'a pas aboutie
+
+
+ROUND 617
+
+Personnage2 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 14291 soit 13%  à  Personnage4
+
+
+ROUND 618
+
+l'attaque de Personnage5 sur Personnage6 n'a pas aboutie
+
+
+ROUND 619
+
+Personnage4 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 41652 soit 72%  à  Personnage2
+
+
+ROUND 620
+
+Personnage6 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 27863 soit 40%  à  Personnage10
+
+
+ROUND 621
+
+Personnage4 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 4632 soit 8%  à  Personnage7
+
+
+ROUND 622
+
+l'attaque de Personnage8 sur Personnage7 n'a pas aboutie
+
+
+ROUND 623
+
+Personnage2 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 13836 soit 12%  à  Personnage4
+
+
+ROUND 624
+
+Personnage7 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 14185 soit 12%  à  Personnage6
+
+
+ROUND 625
+
+Personnage4 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 43786 soit 76%  à  Personnage5
+
+
+ROUND 626
+
+Personnage6 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 41425 soit 59%  à  Personnage2
+
+
+ROUND 627
+
+l'attaque de Personnage8 sur Personnage6 n'a pas aboutie
+
+
+ROUND 628
+
+Personnage5 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 31788 soit 28%  à  Personnage8
+
+
+ROUND 629
+
+l'attaque de Personnage7 sur Personnage4 n'a pas aboutie
+
+
+ROUND 630
+
+Personnage6 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 26990 soit 38%  à  Personnage10
+
+
+ROUND 631
+
+l'attaque de Personnage4 sur Personnage6 n'a pas aboutie
+
+
+ROUND 632
+
+Personnage4 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 30915 soit 54%  à  Personnage8
+
+
+ROUND 633
+
+l'attaque de Personnage7 sur Personnage10 n'a pas aboutie
+
+
+ROUND 634
+
+Personnage8 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 13535 soit 12%  à  Personnage6
+
+
+ROUND 635
+
+Personnage8 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 43331 soit 40%  à  Personnage5
+
+
+ROUND 636
+
+Personnage5 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 30042 soit 26%  à  Personnage8
+
+
+ROUND 637
+
+Personnage10 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 41198 soit 37%  à  Personnage2
+
+
+ROUND 638
+
+Personnage10 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 29169 soit 26%  à  Personnage8
+
+
+ROUND 639
+
+Personnage10 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 13381 soit 12%  à  Personnage4
+
+
+ROUND 640
+
+Personnage5 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 13154 soit 11%  à  Personnage4
+
+
+ROUND 641
+
+Personnage10 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 28296 soit 25%  à  Personnage8
+
+
+ROUND 642
+
+l'attaque de Personnage8 sur Personnage7 n'a pas aboutie
+
+
+ROUND 643
+
+Personnage4 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 43104 soit 75%  à  Personnage5
+
+
+ROUND 644
+
+Personnage8 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 12885 soit 12%  à  Personnage6
+
+
+ROUND 645
+
+l'attaque de Personnage6 sur Personnage7 n'a pas aboutie
+
+
+ROUND 646
+
+Personnage8 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 12927 soit 12%  à  Personnage4
+
+
+ROUND 647
+
+Personnage2 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 26554 soit 24%  à  Personnage10
+
+
+ROUND 648
+
+Personnage10 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 42649 soit 38%  à  Personnage5
+
+
+ROUND 649
+
+l'attaque de Personnage6 sur Personnage8 n'a pas aboutie
+
+
+ROUND 650
+
+l'attaque de Personnage10 sur Personnage7 n'a pas aboutie
+
+
+ROUND 651
+
+l'attaque de Personnage2 sur Personnage8 n'a pas aboutie
+
+
+ROUND 652
+
+Personnage5 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 27860 soit 24%  à  Personnage8
+
+
+ROUND 653
+
+Personnage8 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 40971 soit 38%  à  Personnage2
 
 
 ROUND 654
 
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage5 n'a pas aboutie
 
 
 ROUND 655
 
-Personnage9 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 33451 soit 38%  à  Personnage1
+l'attaque de Personnage10 sur Personnage8 n'a pas aboutie
 
 
 ROUND 656
 
-l'attaque de Personnage4 sur Personnage9 n'a pas aboutie
+Personnage4 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 26987 soit 47%  à  Personnage8
 
 
 ROUND 657
 
-l'attaque de Personnage4 sur Personnage1 n'a pas aboutie
+Personnage4 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 26114 soit 45%  à  Personnage8
 
 
 ROUND 658
 
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
+Personnage7 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 40516 soit 36%  à  Personnage2
 
 
 ROUND 659
 
-Personnage8 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 33171 soit 43%  à  Personnage1
+l'attaque de Personnage6 sur Personnage10 n'a pas aboutie
 
 
 ROUND 660
 
-Personnage4 est eliminer
+l'attaque de Personnage10 sur Personnage5 n'a pas aboutie
+
+
 ROUND 661
 
-l'attaque de Personnage1 sur Personnage8 n'a pas aboutie
+Personnage5 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 12235 soit 10%  à  Personnage6
 
 
 ROUND 662
 
-Personnage1 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 14537 soit 13%  à  Personnage8
+Personnage6 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 3903 soit 5%  à  Personnage7
 
 
 ROUND 663
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage6 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 42422 soit 61%  à  Personnage5
 
 
 ROUND 664
 
-Personnage9 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 14219 soit 16%  à  Personnage8
+l'attaque de Personnage2 sur Personnage4 n'a pas aboutie
 
 
 ROUND 665
 
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage8 n'a pas aboutie
 
 
 ROUND 666
 
-Personnage9 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 32891 soit 38%  à  Personnage1
+Personnage4 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 11910 soit 20%  à  Personnage6
 
 
 ROUND 667
 
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 11490 soit 15%  à  Personnage9
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 41967 soit 39%  à  Personnage5
 
 
 ROUND 668
 
-l'attaque de Personnage9 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage7 n'a pas aboutie
 
 
 ROUND 669
 
-Personnage5 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
+Personnage2 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
 Personnage8 perd
-318 de vie
- il ne reste plus que 13901 soit 13%  à  Personnage8
+873 de vie
+ il ne reste plus que 25241 soit 23%  à  Personnage8
 
 
 ROUND 670
 
-Personnage1 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 11172 soit 10%  à  Personnage9
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 40289 soit 35%  à  Personnage2
 
 
 ROUND 671
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage8 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 12700 soit 11%  à  Personnage4
 
 
 ROUND 672
 
-l'attaque de Personnage9 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
 
 
 ROUND 673
 
-Personnage1 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 13264 soit 12%  à  Personnage8
+Personnage8 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 41512 soit 39%  à  Personnage5
 
 
 ROUND 674
 
-Personnage9 attaque -> Personnage5
+Personnage6 attaque -> Personnage5
 mais Personnage5 à réussi à ce défendre
 Personnage5 perd
-280 de vie
- il ne reste plus que 28890 soit 33%  à  Personnage5
+227 de vie
+ il ne reste plus que 41285 soit 59%  à  Personnage5
 
 
 ROUND 675
 
-l'attaque de Personnage1 sur Personnage8 n'a pas aboutie
+Personnage10 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 12245 soit 11%  à  Personnage4
 
 
 ROUND 676
 
-Personnage1 attaque -> Personnage8
+Personnage5 attaque -> Personnage8
 mais Personnage8 à réussi à ce défendre
 Personnage8 perd
-318 de vie
- il ne reste plus que 12946 soit 12%  à  Personnage8
+436 de vie
+ il ne reste plus que 24805 soit 21%  à  Personnage8
 
 
 ROUND 677
 
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage6 n'a pas aboutie
 
 
 ROUND 678
 
-Personnage1 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 10535 soit 9%  à  Personnage9
+Personnage4 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 41058 soit 71%  à  Personnage5
 
 
 ROUND 679
 
-Personnage1 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 12628 soit 11%  à  Personnage8
+Personnage5 attaque -> Personnage7
+Personnage7 ne réussit pas à ce défendre
+Personnage7 perd
+1458 de vie
+ il ne reste plus que 2445 soit 2%  à  Personnage7
 
 
 ROUND 680
 
-Personnage9 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 11991 soit 13%  à  Personnage8
+l'attaque de Personnage6 sur Personnage7 n'a pas aboutie
 
 
 ROUND 681
 
-Personnage8 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 28610 soit 37%  à  Personnage5
+l'attaque de Personnage6 sur Personnage2 n'a pas aboutie
 
 
 ROUND 682
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage7 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 26118 soit 23%  à  Personnage10
 
 
 ROUND 683
 
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
 
 
 ROUND 684
 
-l'attaque de Personnage8 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage7 sur Personnage4 n'a pas aboutie
 
 
 ROUND 685
 
-Personnage9 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 32611 soit 37%  à  Personnage1
+l'attaque de Personnage7 sur Personnage2 n'a pas aboutie
 
 
 ROUND 686
 
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage2 n'a pas aboutie
 
 
 ROUND 687
 
-l'attaque de Personnage9 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage8 n'a pas aboutie
 
 
 ROUND 688
 
-Personnage8 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 28330 soit 37%  à  Personnage5
+l'attaque de Personnage6 sur Personnage10 n'a pas aboutie
 
 
 ROUND 689
 
-Personnage9 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 11673 soit 13%  à  Personnage8
+Personnage2 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 25245 soit 23%  à  Personnage10
 
 
 ROUND 690
 
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 10217 soit 13%  à  Personnage9
+Personnage5 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 12018 soit 10%  à  Personnage4
 
 
 ROUND 691
 
-Personnage1 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 9899 soit 9%  à  Personnage9
+l'attaque de Personnage2 sur Personnage8 n'a pas aboutie
 
 
 ROUND 692
 
-Personnage9 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 32050 soit 37%  à  Personnage1
+l'attaque de Personnage7 sur Personnage10 n'a pas aboutie
 
 
 ROUND 693
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 31489 soit 30%  à  Personnage1
+Personnage5 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 24372 soit 21%  à  Personnage10
 
 
 ROUND 694
 
-Personnage8 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 9262 soit 12%  à  Personnage9
+Personnage4 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 11260 soit 19%  à  Personnage6
 
 
 ROUND 695
 
-l'attaque de Personnage1 sur Personnage8 n'a pas aboutie
+Personnage2 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 23499 soit 21%  à  Personnage10
 
 
 ROUND 696
 
-Personnage5 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 8944 soit 8%  à  Personnage9
+l'attaque de Personnage6 sur Personnage10 n'a pas aboutie
 
 
 ROUND 697
 
-l'attaque de Personnage9 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage6 sur Personnage5 n'a pas aboutie
 
 
 ROUND 698
 
-l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
+Personnage7 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 22626 soit 20%  à  Personnage10
 
 
 ROUND 699
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 28050 soit 26%  à  Personnage5
+Personnage10 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 40062 soit 36%  à  Personnage2
 
 
 ROUND 700
 
-Personnage9 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 27489 soit 31%  à  Personnage5
+l'attaque de Personnage4 sur Personnage10 n'a pas aboutie
 
 
 ROUND 701
 
-l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
+Personnage6 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 22190 soit 32%  à  Personnage10
 
 
 ROUND 702
 
-l'attaque de Personnage8 sur Personnage1 n'a pas aboutie
+Personnage10 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 1716 soit 1%  à  Personnage7
 
 
 ROUND 703
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 31209 soit 30%  à  Personnage1
+Personnage5 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 21754 soit 19%  à  Personnage10
 
 
 ROUND 704
 
-Personnage9 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
+Personnage6 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
 Personnage8 perd
-637 de vie
- il ne reste plus que 11036 soit 12%  à  Personnage8
+436 de vie
+ il ne reste plus que 24369 soit 35%  à  Personnage8
 
 
 ROUND 705
 
-Personnage9 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 30929 soit 35%  à  Personnage1
+Personnage10 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 40603 soit 36%  à  Personnage5
 
 
 ROUND 706
 
-Personnage1 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
+Personnage6 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
 Personnage8 perd
-637 de vie
- il ne reste plus que 10399 soit 9%  à  Personnage8
+436 de vie
+ il ne reste plus que 23933 soit 34%  à  Personnage8
 
 
 ROUND 707
 
-Personnage9 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 27209 soit 31%  à  Personnage5
+Personnage5 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 10935 soit 9%  à  Personnage6
 
 
 ROUND 708
 
-Personnage9 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 9762 soit 11%  à  Personnage8
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 40148 soit 37%  à  Personnage5
 
 
 ROUND 709
 
-l'attaque de Personnage9 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
 
 
 ROUND 710
 
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
+Personnage8 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 987 soit 0%  à  Personnage7
 
 
 ROUND 711
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 26648 soit 25%  à  Personnage5
+Personnage10 attaque -> Personnage7
+mais Personnage7 à réussi à ce défendre
+Personnage7 perd
+729 de vie
+ il ne reste plus que 258 soit 0%  à  Personnage7
 
 
 ROUND 712
 
-l'attaque de Personnage9 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage4 n'a pas aboutie
 
 
 ROUND 713
 
-l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
+Personnage8 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 10285 soit 9%  à  Personnage6
 
 
 ROUND 714
 
-Personnage9 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 30368 soit 35%  à  Personnage1
+l'attaque de Personnage6 sur Personnage7 n'a pas aboutie
 
 
 ROUND 715
 
-l'attaque de Personnage9 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage6 n'a pas aboutie
 
 
 ROUND 716
 
-l'attaque de Personnage9 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage7 n'a pas aboutie
 
 
 ROUND 717
 
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
+l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
 
 
 ROUND 718
 
-Personnage8 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 8307 soit 10%  à  Personnage9
+Personnage6 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 11563 soit 16%  à  Personnage4
 
 
 ROUND 719
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage8 n'a pas aboutie
 
 
 ROUND 720
 
-Personnage9 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 26087 soit 30%  à  Personnage5
+Personnage2 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 23060 soit 21%  à  Personnage8
 
 
 ROUND 721
 
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 7989 soit 10%  à  Personnage9
+Personnage5 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 9960 soit 8%  à  Personnage6
 
 
 ROUND 722
 
-l'attaque de Personnage8 sur Personnage1 n'a pas aboutie
+Personnage5 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 21318 soit 18%  à  Personnage10
 
 
 ROUND 723
 
-Personnage1 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 7352 soit 6%  à  Personnage9
+Personnage7 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 39693 soit 36%  à  Personnage5
 
 
 ROUND 724
 
-Personnage5 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 9125 soit 8%  à  Personnage8
+Personnage7 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 39835 soit 36%  à  Personnage2
 
 
 ROUND 725
 
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
+Personnage8 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 9635 soit 9%  à  Personnage6
 
 
 ROUND 726
 
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
+Personnage7 est eliminer tuer par Personnage10 
 
 
 ROUND 727
 
-Personnage9 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 8488 soit 9%  à  Personnage8
+Personnage8 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 9310 soit 8%  à  Personnage6
 
 
 ROUND 728
 
-Personnage5 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
+Personnage2 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
 Personnage8 perd
-318 de vie
- il ne reste plus que 8170 soit 7%  à  Personnage8
+873 de vie
+ il ne reste plus que 22187 soit 20%  à  Personnage8
 
 
 ROUND 729
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 25807 soit 24%  à  Personnage5
+Personnage2 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 11108 soit 10%  à  Personnage4
 
 
 ROUND 730
 
-Personnage8 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 30088 soit 39%  à  Personnage1
+l'attaque de Personnage2 sur Personnage8 n'a pas aboutie
 
 
 ROUND 731
 
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage4 n'a pas aboutie
 
 
 ROUND 732
 
-l'attaque de Personnage1 sur Personnage9 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage5 n'a pas aboutie
 
 
 ROUND 733
 
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
+Personnage5 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 8660 soit 7%  à  Personnage6
 
 
 ROUND 734
 
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 7034 soit 9%  à  Personnage9
+Personnage4 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 39608 soit 69%  à  Personnage2
 
 
 ROUND 735
 
-Personnage8 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 6397 soit 8%  à  Personnage9
+l'attaque de Personnage6 sur Personnage8 n'a pas aboutie
 
 
 ROUND 736
 
-Personnage5 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 6079 soit 5%  à  Personnage9
+Personnage10 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 21751 soit 19%  à  Personnage8
 
 
 ROUND 737
 
-Personnage1 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 5442 soit 5%  à  Personnage9
+l'attaque de Personnage6 sur Personnage5 n'a pas aboutie
 
 
 ROUND 738
 
-Personnage9 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 29808 soit 34%  à  Personnage1
+Personnage2 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 20878 soit 19%  à  Personnage8
 
 
 ROUND 739
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage10 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 8010 soit 7%  à  Personnage6
 
 
 ROUND 740
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 39153 soit 68%  à  Personnage2
 
 
 ROUND 741
 
-l'attaque de Personnage9 sur Personnage5 n'a pas aboutie
+Personnage8 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 7685 soit 7%  à  Personnage6
 
 
 ROUND 742
 
-Personnage5 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 7533 soit 7%  à  Personnage8
+l'attaque de Personnage8 sur Personnage2 n'a pas aboutie
 
 
 ROUND 743
 
-Personnage8 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 25246 soit 33%  à  Personnage5
+Personnage6 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 20882 soit 30%  à  Personnage10
 
 
 ROUND 744
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 29247 soit 28%  à  Personnage1
+Personnage4 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 7360 soit 12%  à  Personnage6
 
 
 ROUND 745
 
-Personnage9 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 28967 soit 33%  à  Personnage1
+Personnage4 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 20009 soit 34%  à  Personnage10
 
 
 ROUND 746
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 24685 soit 23%  à  Personnage5
+l'attaque de Personnage2 sur Personnage4 n'a pas aboutie
 
 
 ROUND 747
 
-Personnage8 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 24405 soit 32%  à  Personnage5
+l'attaque de Personnage6 sur Personnage4 n'a pas aboutie
 
 
 ROUND 748
 
-Personnage8 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 4805 soit 6%  à  Personnage9
+Personnage8 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 6710 soit 6%  à  Personnage6
 
 
 ROUND 749
 
-l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
+Personnage10 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 10653 soit 9%  à  Personnage4
 
 
 ROUND 750
 
-l'attaque de Personnage9 sur Personnage1 n'a pas aboutie
+Personnage4 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 38926 soit 68%  à  Personnage2
 
 
 ROUND 751
 
-Personnage8 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 28406 soit 37%  à  Personnage1
+l'attaque de Personnage6 sur Personnage8 n'a pas aboutie
 
 
 ROUND 752
 
-Personnage9 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 23844 soit 27%  à  Personnage5
+l'attaque de Personnage6 sur Personnage2 n'a pas aboutie
 
 
 ROUND 753
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage6 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 19573 soit 28%  à  Personnage10
 
 
 ROUND 754
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 23283 soit 21%  à  Personnage5
+Personnage6 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 38471 soit 55%  à  Personnage2
 
 
 ROUND 755
 
-Personnage9 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 6896 soit 8%  à  Personnage8
+Personnage10 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 6060 soit 5%  à  Personnage6
 
 
 ROUND 756
 
-l'attaque de Personnage9 sur Personnage1 n'a pas aboutie
+Personnage5 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 19137 soit 16%  à  Personnage10
 
 
 ROUND 757
 
-l'attaque de Personnage1 sur Personnage9 n'a pas aboutie
+Personnage6 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 18264 soit 26%  à  Personnage10
 
 
 ROUND 758
 
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 4487 soit 5%  à  Personnage9
+l'attaque de Personnage6 sur Personnage10 n'a pas aboutie
 
 
 ROUND 759
 
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
 
 
 ROUND 760
 
-l'attaque de Personnage8 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
 
 
 ROUND 761
 
-Personnage5 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 6259 soit 6%  à  Personnage8
+Personnage8 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 17391 soit 16%  à  Personnage10
 
 
 ROUND 762
 
-Personnage5 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 4169 soit 4%  à  Personnage9
+Personnage4 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 38244 soit 66%  à  Personnage2
 
 
 ROUND 763
 
-l'attaque de Personnage9 sur Personnage8 n'a pas aboutie
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 39238 soit 36%  à  Personnage5
 
 
 ROUND 764
 
-Personnage1 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 3532 soit 3%  à  Personnage9
+Personnage2 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 20005 soit 18%  à  Personnage8
 
 
 ROUND 765
 
-Personnage5 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 5941 soit 5%  à  Personnage8
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 39011 soit 36%  à  Personnage5
 
 
 ROUND 766
 
-Personnage1 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 5623 soit 5%  à  Personnage8
+Personnage6 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 16518 soit 23%  à  Personnage10
 
 
 ROUND 767
 
-Personnage1 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 5305 soit 4%  à  Personnage8
+Personnage8 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 37789 soit 35%  à  Personnage2
 
 
 ROUND 768
 
-Personnage9 attaque -> Personnage5
+Personnage10 attaque -> Personnage5
 mais Personnage5 à réussi à ce défendre
 Personnage5 perd
-280 de vie
- il ne reste plus que 23003 soit 26%  à  Personnage5
+227 de vie
+ il ne reste plus que 38784 soit 35%  à  Personnage5
 
 
 ROUND 769
 
-Personnage5 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 4668 soit 4%  à  Personnage8
+l'attaque de Personnage8 sur Personnage2 n'a pas aboutie
 
 
 ROUND 770
 
-l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage6 sur Personnage4 n'a pas aboutie
 
 
 ROUND 771
 
-Personnage1 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 3214 soit 3%  à  Personnage9
+Personnage8 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 10198 soit 9%  à  Personnage4
 
 
 ROUND 772
 
-l'attaque de Personnage8 sur Personnage9 n'a pas aboutie
+Personnage8 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 37334 soit 35%  à  Personnage2
 
 
 ROUND 773
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage6 sur Personnage4 n'a pas aboutie
 
 
 ROUND 774
 
-Personnage5 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 4031 soit 3%  à  Personnage8
+Personnage8 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 9971 soit 9%  à  Personnage4
 
 
 ROUND 775
 
-Personnage9 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 3394 soit 3%  à  Personnage8
+l'attaque de Personnage4 sur Personnage10 n'a pas aboutie
 
 
 ROUND 776
 
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 2896 soit 3%  à  Personnage9
+Personnage10 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 5410 soit 4%  à  Personnage6
 
 
 ROUND 777
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage6 sur Personnage4 n'a pas aboutie
 
 
 ROUND 778
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage4 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 4760 soit 8%  à  Personnage6
 
 
 ROUND 779
 
-Personnage9 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 28126 soit 32%  à  Personnage1
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 36879 soit 64%  à  Personnage2
 
 
 ROUND 780
 
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
+Personnage8 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 16082 soit 15%  à  Personnage10
 
 
 ROUND 781
 
-l'attaque de Personnage9 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
 
 
 ROUND 782
 
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 2578 soit 3%  à  Personnage9
+Personnage2 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 4110 soit 3%  à  Personnage6
 
 
 ROUND 783
 
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 2260 soit 2%  à  Personnage9
+l'attaque de Personnage5 sur Personnage6 n'a pas aboutie
 
 
 ROUND 784
 
-l'attaque de Personnage9 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage5 sur Personnage10 n'a pas aboutie
 
 
 ROUND 785
 
-Personnage8 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 1942 soit 2%  à  Personnage9
+l'attaque de Personnage6 sur Personnage5 n'a pas aboutie
 
 
 ROUND 786
 
-l'attaque de Personnage9 sur Personnage5 n'a pas aboutie
+Personnage2 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 9744 soit 9%  à  Personnage4
 
 
 ROUND 787
 
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 36424 soit 32%  à  Personnage2
 
 
 ROUND 788
 
-Personnage9 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 22442 soit 26%  à  Personnage5
+l'attaque de Personnage10 sur Personnage6 n'a pas aboutie
 
 
 ROUND 789
 
-l'attaque de Personnage1 sur Personnage9 n'a pas aboutie
+l'attaque de Personnage6 sur Personnage8 n'a pas aboutie
 
 
 ROUND 790
 
-l'attaque de Personnage8 sur Personnage1 n'a pas aboutie
+Personnage10 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 38557 soit 34%  à  Personnage5
 
 
 ROUND 791
 
-Personnage8 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 21881 soit 28%  à  Personnage5
+l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
 
 
 ROUND 792
 
-Personnage5 attaque -> Personnage9
-mais Personnage9 à réussi à ce défendre
-Personnage9 perd
-318 de vie
- il ne reste plus que 1624 soit 1%  à  Personnage9
+l'attaque de Personnage6 sur Personnage5 n'a pas aboutie
 
 
 ROUND 793
 
-Personnage8 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 987 soit 1%  à  Personnage9
+Personnage5 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 19569 soit 17%  à  Personnage8
 
 
 ROUND 794
 
-Personnage8 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 21320 soit 28%  à  Personnage5
+Personnage2 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 19133 soit 17%  à  Personnage8
 
 
 ROUND 795
 
-Personnage1 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 2757 soit 2%  à  Personnage8
+Personnage8 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 38330 soit 36%  à  Personnage5
 
 
 ROUND 796
 
-Personnage9 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 2120 soit 2%  à  Personnage8
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 35969 soit 62%  à  Personnage2
 
 
 ROUND 797
 
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage8 n'a pas aboutie
 
 
 ROUND 798
 
-l'attaque de Personnage8 sur Personnage9 n'a pas aboutie
+Personnage10 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 3785 soit 3%  à  Personnage6
 
 
 ROUND 799
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage10 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 18697 soit 16%  à  Personnage8
 
 
 ROUND 800
 
-Personnage9 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 1802 soit 2%  à  Personnage8
+l'attaque de Personnage6 sur Personnage5 n'a pas aboutie
 
 
 ROUND 801
 
-Personnage9 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 20759 soit 24%  à  Personnage5
+Personnage10 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 3460 soit 3%  à  Personnage6
 
 
 ROUND 802
 
-Personnage9 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 20479 soit 23%  à  Personnage5
+Personnage4 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 17824 soit 31%  à  Personnage8
 
 
 ROUND 803
 
-l'attaque de Personnage5 sur Personnage9 n'a pas aboutie
+Personnage2 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 16951 soit 15%  à  Personnage8
 
 
 ROUND 804
 
-l'attaque de Personnage1 sur Personnage9 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage8 n'a pas aboutie
 
 
 ROUND 805
 
-Personnage5 attaque -> Personnage9
-Personnage9 ne réussit pas à ce défendre
-Personnage9 perd
-637 de vie
- il ne reste plus que 350 soit 0%  à  Personnage9
+Personnage5 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 2810 soit 2%  à  Personnage6
 
 
 ROUND 806
 
-l'attaque de Personnage1 sur Personnage9 n'a pas aboutie
+Personnage10 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 35742 soit 32%  à  Personnage2
 
 
 ROUND 807
 
-Personnage1 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
+Personnage4 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
 Personnage8 perd
-318 de vie
- il ne reste plus que 1484 soit 1%  à  Personnage8
+873 de vie
+ il ne reste plus que 16078 soit 28%  à  Personnage8
 
 
 ROUND 808
 
-Personnage9 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 27565 soit 32%  à  Personnage1
+Personnage5 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 15646 soit 13%  à  Personnage10
 
 
 ROUND 809
 
-Personnage9 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 27004 soit 31%  à  Personnage1
+Personnage8 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 9517 soit 8%  à  Personnage4
 
 
 ROUND 810
 
-Personnage9 est eliminer
+Personnage6 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 35287 soit 50%  à  Personnage2
+
+
 ROUND 811
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage4 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 35060 soit 61%  à  Personnage2
 
 
 ROUND 812
 
-Personnage5 attaque -> Personnage8
-Personnage8 ne réussit pas à ce défendre
-Personnage8 perd
-637 de vie
- il ne reste plus que 847 soit 0%  à  Personnage8
+l'attaque de Personnage6 sur Personnage10 n'a pas aboutie
 
 
 ROUND 813
 
-Personnage1 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 529 soit 0%  à  Personnage8
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 34833 soit 30%  à  Personnage2
 
 
 ROUND 814
 
-Personnage8 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 20199 soit 26%  à  Personnage5
+Personnage5 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 15642 soit 13%  à  Personnage8
 
 
 ROUND 815
 
-Personnage8 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 26724 soit 35%  à  Personnage1
+l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
 
 
 ROUND 816
 
-l'attaque de Personnage1 sur Personnage8 n'a pas aboutie
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 34378 soit 60%  à  Personnage2
 
 
 ROUND 817
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 26163 soit 25%  à  Personnage1
+l'attaque de Personnage6 sur Personnage2 n'a pas aboutie
 
 
 ROUND 818
 
-l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage6 n'a pas aboutie
 
 
 ROUND 819
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 19919 soit 18%  à  Personnage5
+l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
 
 
 ROUND 820
 
-l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
+Personnage2 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 9062 soit 8%  à  Personnage4
 
 
 ROUND 821
 
-l'attaque de Personnage1 sur Personnage8 n'a pas aboutie
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 34151 soit 30%  à  Personnage2
 
 
 ROUND 822
 
-Personnage8 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 19358 soit 25%  à  Personnage5
+Personnage8 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 8607 soit 8%  à  Personnage4
 
 
 ROUND 823
 
-Personnage8 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 25883 soit 34%  à  Personnage1
+Personnage4 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 2160 soit 3%  à  Personnage6
 
 
 ROUND 824
 
-l'attaque de Personnage1 sur Personnage8 n'a pas aboutie
+Personnage8 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 8380 soit 7%  à  Personnage4
 
 
 ROUND 825
 
-l'attaque de Personnage8 sur Personnage1 n'a pas aboutie
+Personnage8 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 37875 soit 35%  à  Personnage5
 
 
 ROUND 826
 
-l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
+Personnage5 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 14773 soit 13%  à  Personnage10
 
 
 ROUND 827
 
-l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage8 n'a pas aboutie
 
 
 ROUND 828
 
-Personnage5 attaque -> Personnage8
-mais Personnage8 à réussi à ce défendre
-Personnage8 perd
-318 de vie
- il ne reste plus que 211 soit 0%  à  Personnage8
+Personnage8 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 1510 soit 1%  à  Personnage6
 
 
 ROUND 829
 
-Personnage8 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 25322 soit 33%  à  Personnage1
+Personnage5 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 15206 soit 13%  à  Personnage8
 
 
 ROUND 830
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage6 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 14333 soit 20%  à  Personnage8
 
 
 ROUND 831
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage8 n'a pas aboutie
 
 
 ROUND 832
 
-Personnage8 est eliminer
+Personnage2 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 13897 soit 12%  à  Personnage8
+
+
 ROUND 833
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 25042 soit 24%  à  Personnage1
+l'attaque de Personnage10 sur Personnage6 n'a pas aboutie
 
 
 ROUND 834
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 24762 soit 24%  à  Personnage1
+Personnage10 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 37420 soit 33%  à  Personnage5
 
 
 ROUND 835
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 33696 soit 29%  à  Personnage2
 
 
 ROUND 836
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 24201 soit 23%  à  Personnage1
+l'attaque de Personnage2 sur Personnage6 n'a pas aboutie
 
 
 ROUND 837
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 18797 soit 17%  à  Personnage5
+l'attaque de Personnage8 sur Personnage4 n'a pas aboutie
 
 
 ROUND 838
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 23921 soit 23%  à  Personnage1
+Personnage8 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 14337 soit 13%  à  Personnage10
 
 
 ROUND 839
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 23360 soit 22%  à  Personnage1
+Personnage6 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 7925 soit 11%  à  Personnage4
 
 
 ROUND 840
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
 
 
 ROUND 841
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage5 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 13024 soit 11%  à  Personnage8
 
 
 ROUND 842
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage2 n'a pas aboutie
 
 
 ROUND 843
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
 
 
 ROUND 844
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage4 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 13901 soit 24%  à  Personnage10
 
 
 ROUND 845
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 23080 soit 22%  à  Personnage1
+Personnage10 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 7470 soit 6%  à  Personnage4
 
 
 ROUND 846
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage4 n'a pas aboutie
 
 
 ROUND 847
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage4 n'a pas aboutie
 
 
 ROUND 848
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 22519 soit 21%  à  Personnage1
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 33241 soit 58%  à  Personnage2
 
 
 ROUND 849
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage2 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 12151 soit 11%  à  Personnage8
 
 
 ROUND 850
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage2 n'a pas aboutie
 
 
 ROUND 851
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
 
 
 ROUND 852
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 22239 soit 21%  à  Personnage1
+l'attaque de Personnage10 sur Personnage2 n'a pas aboutie
 
 
 ROUND 853
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 18236 soit 17%  à  Personnage5
+l'attaque de Personnage2 sur Personnage4 n'a pas aboutie
 
 
 ROUND 854
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage2 n'a pas aboutie
 
 
 ROUND 855
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 17675 soit 16%  à  Personnage5
+l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
 
 
 ROUND 856
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 17395 soit 16%  à  Personnage5
+l'attaque de Personnage6 sur Personnage5 n'a pas aboutie
 
 
 ROUND 857
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage5 sur Personnage6 n'a pas aboutie
 
 
 ROUND 858
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 16834 soit 15%  à  Personnage5
+Personnage10 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 11715 soit 10%  à  Personnage8
 
 
 ROUND 859
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
 
 
 ROUND 860
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage6 sur Personnage8 n'a pas aboutie
 
 
 ROUND 861
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 16554 soit 15%  à  Personnage5
+Personnage4 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 10842 soit 18%  à  Personnage8
 
 
 ROUND 862
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 15993 soit 15%  à  Personnage5
+l'attaque de Personnage8 sur Personnage4 n'a pas aboutie
 
 
 ROUND 863
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
 
 
 ROUND 864
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 15432 soit 14%  à  Personnage5
+l'attaque de Personnage8 sur Personnage10 n'a pas aboutie
 
 
 ROUND 865
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage2 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 13465 soit 12%  à  Personnage10
 
 
 ROUND 866
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
+Personnage10 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
 Personnage5 perd
-280 de vie
- il ne reste plus que 15152 soit 14%  à  Personnage5
+455 de vie
+ il ne reste plus que 36965 soit 33%  à  Personnage5
 
 
 ROUND 867
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
 
 
 ROUND 868
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 21959 soit 21%  à  Personnage1
+l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
 
 
 ROUND 869
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 21679 soit 21%  à  Personnage1
+l'attaque de Personnage10 sur Personnage6 n'a pas aboutie
 
 
 ROUND 870
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 21399 soit 20%  à  Personnage1
+Personnage2 attaque -> Personnage6
+Personnage6 ne réussit pas à ce défendre
+Personnage6 perd
+650 de vie
+ il ne reste plus que 860 soit 0%  à  Personnage6
 
 
 ROUND 871
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 14591 soit 13%  à  Personnage5
+l'attaque de Personnage8 sur Personnage4 n'a pas aboutie
 
 
 ROUND 872
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 14030 soit 13%  à  Personnage5
+l'attaque de Personnage10 sur Personnage2 n'a pas aboutie
 
 
 ROUND 873
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 20838 soit 20%  à  Personnage1
+Personnage5 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 9969 soit 8%  à  Personnage8
 
 
 ROUND 874
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 20277 soit 19%  à  Personnage1
+l'attaque de Personnage8 sur Personnage5 n'a pas aboutie
 
 
 ROUND 875
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 13750 soit 12%  à  Personnage5
+Personnage6 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 7015 soit 10%  à  Personnage4
 
 
 ROUND 876
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage10 n'a pas aboutie
 
 
 ROUND 877
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 13470 soit 12%  à  Personnage5
+l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
 
 
 ROUND 878
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 19716 soit 19%  à  Personnage1
+l'attaque de Personnage2 sur Personnage8 n'a pas aboutie
 
 
 ROUND 879
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage2 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 9533 soit 8%  à  Personnage8
 
 
 ROUND 880
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage4 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 33014 soit 57%  à  Personnage2
 
 
 ROUND 881
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 13190 soit 12%  à  Personnage5
+l'attaque de Personnage6 sur Personnage8 n'a pas aboutie
 
 
 ROUND 882
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 19436 soit 18%  à  Personnage1
+Personnage2 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 9097 soit 8%  à  Personnage8
 
 
 ROUND 883
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
 
 
 ROUND 884
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
 
 
 ROUND 885
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 12910 soit 12%  à  Personnage5
+l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
 
 
 ROUND 886
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
 
 
 ROUND 887
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 32559 soit 28%  à  Personnage2
 
 
 ROUND 888
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage4 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 8224 soit 14%  à  Personnage8
 
 
 ROUND 889
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 12349 soit 11%  à  Personnage5
+l'attaque de Personnage10 sur Personnage4 n'a pas aboutie
 
 
 ROUND 890
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 12069 soit 11%  à  Personnage5
+Personnage4 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 7788 soit 13%  à  Personnage8
 
 
 ROUND 891
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage5 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 535 soit 0%  à  Personnage6
 
 
 ROUND 892
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 11789 soit 11%  à  Personnage5
+Personnage5 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 6915 soit 6%  à  Personnage8
 
 
 ROUND 893
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage10 sur Personnage4 n'a pas aboutie
 
 
 ROUND 894
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage5 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 6788 soit 5%  à  Personnage4
 
 
 ROUND 895
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage4 attaque -> Personnage6
+mais Personnage6 à réussi à ce défendre
+Personnage6 perd
+325 de vie
+ il ne reste plus que 210 soit 0%  à  Personnage6
 
 
 ROUND 896
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
 
 
 ROUND 897
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
+Personnage8 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
 Personnage5 perd
-280 de vie
- il ne reste plus que 11509 soit 10%  à  Personnage5
+455 de vie
+ il ne reste plus que 36510 soit 34%  à  Personnage5
 
 
 ROUND 898
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 18875 soit 18%  à  Personnage1
+Personnage6 est eliminer tuer par Personnage2 
 
 
 ROUND 899
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 18314 soit 17%  à  Personnage1
+l'attaque de Personnage10 sur Personnage2 n'a pas aboutie
 
 
 ROUND 900
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 18034 soit 17%  à  Personnage1
+l'attaque de Personnage8 sur Personnage2 n'a pas aboutie
 
 
 ROUND 901
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 17473 soit 17%  à  Personnage1
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 32104 soit 56%  à  Personnage2
 
 
 ROUND 902
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 16912 soit 16%  à  Personnage1
+Personnage10 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 36055 soit 32%  à  Personnage5
 
 
 ROUND 903
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 16351 soit 15%  à  Personnage1
+Personnage10 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 6479 soit 5%  à  Personnage8
 
 
 ROUND 904
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 11229 soit 10%  à  Personnage5
+l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
 
 
 ROUND 905
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 16071 soit 15%  à  Personnage1
+l'attaque de Personnage8 sur Personnage4 n'a pas aboutie
 
 
 ROUND 906
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage10 n'a pas aboutie
 
 
 ROUND 907
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 10668 soit 10%  à  Personnage5
+Personnage2 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 12592 soit 11%  à  Personnage10
 
 
 ROUND 908
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage10 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 35828 soit 32%  à  Personnage5
 
 
 ROUND 909
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 10388 soit 9%  à  Personnage5
+Personnage4 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 6043 soit 10%  à  Personnage8
 
 
 ROUND 910
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage5 sur Personnage8 n'a pas aboutie
 
 
 ROUND 911
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage8 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 35373 soit 33%  à  Personnage5
 
 
 ROUND 912
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 15510 soit 15%  à  Personnage1
+l'attaque de Personnage2 sur Personnage4 n'a pas aboutie
 
 
 ROUND 913
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 9827 soit 9%  à  Personnage5
+Personnage4 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 11719 soit 20%  à  Personnage10
 
 
 ROUND 914
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 9266 soit 8%  à  Personnage5
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
 
 
 ROUND 915
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 8986 soit 8%  à  Personnage5
+Personnage10 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 31649 soit 28%  à  Personnage2
 
 
 ROUND 916
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 15230 soit 14%  à  Personnage1
+Personnage8 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 31422 soit 29%  à  Personnage2
 
 
 ROUND 917
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 8425 soit 7%  à  Personnage5
+Personnage8 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 6561 soit 6%  à  Personnage4
 
 
 ROUND 918
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 7864 soit 7%  à  Personnage5
+l'attaque de Personnage2 sur Personnage8 n'a pas aboutie
 
 
 ROUND 919
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 34918 soit 32%  à  Personnage5
 
 
 ROUND 920
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage8 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 10846 soit 10%  à  Personnage10
 
 
 ROUND 921
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage2 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 6334 soit 5%  à  Personnage4
 
 
 ROUND 922
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 14669 soit 14%  à  Personnage1
+l'attaque de Personnage8 sur Personnage2 n'a pas aboutie
 
 
 ROUND 923
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 14108 soit 13%  à  Personnage1
+Personnage8 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 34691 soit 32%  à  Personnage5
 
 
 ROUND 924
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 7303 soit 6%  à  Personnage5
+Personnage5 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 10410 soit 9%  à  Personnage10
 
 
 ROUND 925
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 30967 soit 54%  à  Personnage2
 
 
 ROUND 926
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage4 n'a pas aboutie
 
 
 ROUND 927
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage4 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 34236 soit 59%  à  Personnage5
 
 
 ROUND 928
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage4 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 9974 soit 17%  à  Personnage10
 
 
 ROUND 929
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 13547 soit 13%  à  Personnage1
+Personnage4 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 34009 soit 59%  à  Personnage5
 
 
 ROUND 930
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 6742 soit 6%  à  Personnage5
+Personnage5 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 6107 soit 5%  à  Personnage4
 
 
 ROUND 931
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage10 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 5880 soit 5%  à  Personnage4
 
 
 ROUND 932
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 13267 soit 12%  à  Personnage1
+Personnage5 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 9538 soit 8%  à  Personnage10
 
 
 ROUND 933
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 12987 soit 12%  à  Personnage1
+Personnage5 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 5425 soit 4%  à  Personnage4
 
 
 ROUND 934
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 12707 soit 12%  à  Personnage1
+Personnage10 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 33782 soit 30%  à  Personnage5
 
 
 ROUND 935
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage10 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 30512 soit 27%  à  Personnage2
 
 
 ROUND 936
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 30057 soit 26%  à  Personnage2
 
 
 ROUND 937
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
 
 
 ROUND 938
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 6181 soit 5%  à  Personnage5
+l'attaque de Personnage4 sur Personnage10 n'a pas aboutie
 
 
 ROUND 939
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 5901 soit 5%  à  Personnage5
+l'attaque de Personnage2 sur Personnage8 n'a pas aboutie
 
 
 ROUND 940
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 12427 soit 12%  à  Personnage1
+l'attaque de Personnage4 sur Personnage10 n'a pas aboutie
 
 
 ROUND 941
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 5340 soit 5%  à  Personnage5
+Personnage10 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 29830 soit 26%  à  Personnage2
 
 
 ROUND 942
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 11866 soit 11%  à  Personnage1
+Personnage2 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 5170 soit 4%  à  Personnage8
 
 
 ROUND 943
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 11305 soit 11%  à  Personnage1
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 29375 soit 25%  à  Personnage2
 
 
 ROUND 944
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 11025 soit 10%  à  Personnage1
+Personnage2 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 9102 soit 8%  à  Personnage10
 
 
 ROUND 945
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 5060 soit 4%  à  Personnage5
+Personnage5 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 4297 soit 3%  à  Personnage8
 
 
 ROUND 946
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 4499 soit 4%  à  Personnage5
+l'attaque de Personnage10 sur Personnage5 n'a pas aboutie
 
 
 ROUND 947
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 10464 soit 10%  à  Personnage1
+Personnage2 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 3424 soit 3%  à  Personnage8
 
 
 ROUND 948
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 28920 soit 50%  à  Personnage2
 
 
 ROUND 949
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage2 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 2551 soit 2%  à  Personnage8
 
 
 ROUND 950
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 9903 soit 9%  à  Personnage1
+l'attaque de Personnage10 sur Personnage8 n'a pas aboutie
 
 
 ROUND 951
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 3938 soit 3%  à  Personnage5
+Personnage4 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 8666 soit 15%  à  Personnage10
 
 
 ROUND 952
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 9623 soit 9%  à  Personnage1
+Personnage4 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 33555 soit 58%  à  Personnage5
 
 
 ROUND 953
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 3658 soit 3%  à  Personnage5
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
 
 
 ROUND 954
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 9062 soit 8%  à  Personnage1
+Personnage2 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 2115 soit 1%  à  Personnage8
 
 
 ROUND 955
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 3378 soit 3%  à  Personnage5
+l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
 
 
 ROUND 956
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 2817 soit 2%  à  Personnage5
+Personnage5 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 7793 soit 6%  à  Personnage10
 
 
 ROUND 957
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 2537 soit 2%  à  Personnage5
+Personnage5 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 6920 soit 6%  à  Personnage10
 
 
 ROUND 958
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 28693 soit 25%  à  Personnage2
 
 
 ROUND 959
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 2257 soit 2%  à  Personnage5
+l'attaque de Personnage8 sur Personnage2 n'a pas aboutie
 
 
 ROUND 960
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 1696 soit 1%  à  Personnage5
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
 
 
 ROUND 961
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage5 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 6484 soit 5%  à  Personnage10
 
 
 ROUND 962
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
 
 
 ROUND 963
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 8501 soit 8%  à  Personnage1
+l'attaque de Personnage10 sur Personnage4 n'a pas aboutie
 
 
 ROUND 964
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 8221 soit 8%  à  Personnage1
+l'attaque de Personnage5 sur Personnage10 n'a pas aboutie
 
 
 ROUND 965
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage4 sur Personnage10 n'a pas aboutie
 
 
 ROUND 966
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+Personnage4 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 28466 soit 49%  à  Personnage2
 
 
 ROUND 967
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 7941 soit 7%  à  Personnage1
+l'attaque de Personnage5 sur Personnage10 n'a pas aboutie
 
 
 ROUND 968
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage4 sur Personnage10 n'a pas aboutie
 
 
 ROUND 969
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
+Personnage4 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
 Personnage5 perd
-280 de vie
- il ne reste plus que 1416 soit 1%  à  Personnage5
+455 de vie
+ il ne reste plus que 33100 soit 57%  à  Personnage5
 
 
 ROUND 970
 
-Personnage5 attaque -> Personnage1
-mais Personnage1 à réussi à ce défendre
-Personnage1 perd
-280 de vie
- il ne reste plus que 7661 soit 7%  à  Personnage1
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 32873 soit 30%  à  Personnage5
 
 
 ROUND 971
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+Personnage8 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 28239 soit 26%  à  Personnage2
 
 
 ROUND 972
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 7100 soit 6%  à  Personnage1
+Personnage5 attaque -> Personnage8
+Personnage8 ne réussit pas à ce défendre
+Personnage8 perd
+873 de vie
+ il ne reste plus que 1242 soit 1%  à  Personnage8
 
 
 ROUND 973
 
-Personnage1 attaque -> Personnage5
-Personnage5 ne réussit pas à ce défendre
-Personnage5 perd
-561 de vie
- il ne reste plus que 855 soit 0%  à  Personnage5
+Personnage8 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 28012 soit 26%  à  Personnage2
 
 
 ROUND 974
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 575 soit 0%  à  Personnage5
+l'attaque de Personnage8 sur Personnage10 n'a pas aboutie
 
 
 ROUND 975
 
-l'attaque de Personnage5 sur Personnage1 n'a pas aboutie
+l'attaque de Personnage4 sur Personnage10 n'a pas aboutie
 
 
 ROUND 976
 
-Personnage5 attaque -> Personnage1
-Personnage1 ne réussit pas à ce défendre
-Personnage1 perd
-561 de vie
- il ne reste plus que 6539 soit 6%  à  Personnage1
+Personnage5 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 5611 soit 4%  à  Personnage10
 
 
 ROUND 977
 
-l'attaque de Personnage1 sur Personnage5 n'a pas aboutie
+l'attaque de Personnage8 sur Personnage2 n'a pas aboutie
 
 
 ROUND 978
 
-Personnage1 attaque -> Personnage5
-mais Personnage5 à réussi à ce défendre
-Personnage5 perd
-280 de vie
- il ne reste plus que 295 soit 0%  à  Personnage5
+Personnage4 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 5175 soit 9%  à  Personnage10
 
 
 ROUND 979
 
-Personnage5 est eliminer
+Personnage4 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 4302 soit 7%  à  Personnage10
 
-Personnage1 wins
-Program ended with exit code: 0
+
+ROUND 980
+
+Personnage5 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 3429 soit 3%  à  Personnage10
+
+
+ROUND 981
+
+Personnage4 attaque -> Personnage8
+mais Personnage8 à réussi à ce défendre
+Personnage8 perd
+436 de vie
+ il ne reste plus que 806 soit 1%  à  Personnage8
+
+
+ROUND 982
+
+l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
+
+
+ROUND 983
+
+Personnage8 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 27557 soit 25%  à  Personnage2
+
+
+ROUND 984
+
+l'attaque de Personnage10 sur Personnage5 n'a pas aboutie
+
+
+ROUND 985
+
+Personnage4 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 2556 soit 4%  à  Personnage10
+
+
+ROUND 986
+
+Personnage5 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 2120 soit 1%  à  Personnage10
+
+
+ROUND 987
+
+Personnage4 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 1684 soit 2%  à  Personnage10
+
+
+ROUND 988
+
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 27102 soit 47%  à  Personnage2
+
+
+ROUND 989
+
+Personnage8 est eliminer tuer par Personnage4 
+
+
+ROUND 990
+
+l'attaque de Personnage4 sur Personnage10 n'a pas aboutie
+
+
+ROUND 991
+
+l'attaque de Personnage5 sur Personnage10 n'a pas aboutie
+
+
+ROUND 992
+
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 26647 soit 46%  à  Personnage2
+
+
+ROUND 993
+
+Personnage2 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 4970 soit 4%  à  Personnage4
+
+
+ROUND 994
+
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 26192 soit 45%  à  Personnage2
+
+
+ROUND 995
+
+Personnage5 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 4743 soit 4%  à  Personnage4
+
+
+ROUND 996
+
+Personnage10 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 4288 soit 3%  à  Personnage4
+
+
+ROUND 997
+
+Personnage5 attaque -> Personnage10
+Personnage10 ne réussit pas à ce défendre
+Personnage10 perd
+873 de vie
+ il ne reste plus que 811 soit 0%  à  Personnage10
+
+
+ROUND 998
+
+Personnage10 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 3833 soit 3%  à  Personnage4
+
+
+ROUND 999
+
+Personnage10 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 25737 soit 23%  à  Personnage2
+
+
+ROUND 1000
+
+Personnage2 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 3378 soit 3%  à  Personnage4
+
+
+ROUND 1001
+
+l'attaque de Personnage2 sur Personnage10 n'a pas aboutie
+
+
+ROUND 1002
+
+Personnage5 attaque -> Personnage10
+mais Personnage10 à réussi à ce défendre
+Personnage10 perd
+436 de vie
+ il ne reste plus que 375 soit 0%  à  Personnage10
+
+
+ROUND 1003
+
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 25282 soit 44%  à  Personnage2
+
+
+ROUND 1004
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1005
+
+Personnage10 est eliminer tuer par Personnage2 
+
+
+ROUND 1006
+
+l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1007
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1008
+
+Personnage4 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 25055 soit 43%  à  Personnage2
+
+
+ROUND 1009
+
+l'attaque de Personnage4 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1010
+
+Personnage5 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 3151 soit 2%  à  Personnage4
+
+
+ROUND 1011
+
+l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
+
+
+ROUND 1012
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 24828 soit 21%  à  Personnage2
+
+
+ROUND 1013
+
+Personnage2 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 2924 soit 2%  à  Personnage4
+
+
+ROUND 1014
+
+l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1015
+
+Personnage4 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 24601 soit 42%  à  Personnage2
+
+
+ROUND 1016
+
+Personnage4 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 32418 soit 56%  à  Personnage5
+
+
+ROUND 1017
+
+Personnage5 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 2697 soit 2%  à  Personnage4
+
+
+ROUND 1018
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 24374 soit 21%  à  Personnage2
+
+
+ROUND 1019
+
+l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
+
+
+ROUND 1020
+
+l'attaque de Personnage4 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1021
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 32191 soit 29%  à  Personnage5
+
+
+ROUND 1022
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 24147 soit 21%  à  Personnage2
+
+
+ROUND 1023
+
+Personnage4 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 31736 soit 55%  à  Personnage5
+
+
+ROUND 1024
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 31509 soit 29%  à  Personnage5
+
+
+ROUND 1025
+
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 23692 soit 41%  à  Personnage2
+
+
+ROUND 1026
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 23237 soit 20%  à  Personnage2
+
+
+ROUND 1027
+
+l'attaque de Personnage2 sur Personnage4 n'a pas aboutie
+
+
+ROUND 1028
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 22782 soit 20%  à  Personnage2
+
+
+ROUND 1029
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 31054 soit 28%  à  Personnage5
+
+
+ROUND 1030
+
+Personnage4 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 30599 soit 53%  à  Personnage5
+
+
+ROUND 1031
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1032
+
+Personnage5 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 2242 soit 1%  à  Personnage4
+
+
+ROUND 1033
+
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 22327 soit 39%  à  Personnage2
+
+
+ROUND 1034
+
+l'attaque de Personnage2 sur Personnage4 n'a pas aboutie
+
+
+ROUND 1035
+
+Personnage2 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 2015 soit 1%  à  Personnage4
+
+
+ROUND 1036
+
+Personnage4 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 22100 soit 38%  à  Personnage2
+
+
+ROUND 1037
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 30372 soit 28%  à  Personnage5
+
+
+ROUND 1038
+
+l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
+
+
+ROUND 1039
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1040
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 29917 soit 27%  à  Personnage5
+
+
+ROUND 1041
+
+l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
+
+
+ROUND 1042
+
+Personnage2 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 1560 soit 1%  à  Personnage4
+
+
+ROUND 1043
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1044
+
+Personnage4 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 21873 soit 38%  à  Personnage2
+
+
+ROUND 1045
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 21418 soit 18%  à  Personnage2
+
+
+ROUND 1046
+
+Personnage2 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 1333 soit 1%  à  Personnage4
+
+
+ROUND 1047
+
+l'attaque de Personnage4 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1048
+
+Personnage5 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 1106 soit 0%  à  Personnage4
+
+
+ROUND 1049
+
+l'attaque de Personnage2 sur Personnage4 n'a pas aboutie
+
+
+ROUND 1050
+
+l'attaque de Personnage4 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1051
+
+Personnage5 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 879 soit 0%  à  Personnage4
+
+
+ROUND 1052
+
+Personnage2 attaque -> Personnage4
+mais Personnage4 à réussi à ce défendre
+Personnage4 perd
+227 de vie
+ il ne reste plus que 652 soit 0%  à  Personnage4
+
+
+ROUND 1053
+
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 20963 soit 36%  à  Personnage2
+
+
+ROUND 1054
+
+l'attaque de Personnage4 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1055
+
+l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1056
+
+Personnage4 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 20736 soit 36%  à  Personnage2
+
+
+ROUND 1057
+
+l'attaque de Personnage5 sur Personnage4 n'a pas aboutie
+
+
+ROUND 1058
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 20509 soit 18%  à  Personnage2
+
+
+ROUND 1059
+
+l'attaque de Personnage4 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1060
+
+Personnage4 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 20054 soit 35%  à  Personnage2
+
+
+ROUND 1061
+
+Personnage5 attaque -> Personnage4
+Personnage4 ne réussit pas à ce défendre
+Personnage4 perd
+455 de vie
+ il ne reste plus que 197 soit 0%  à  Personnage4
+
+
+ROUND 1062
+
+Personnage4 est eliminer tuer par Personnage2 
+
+
+ROUND 1063
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 19827 soit 17%  à  Personnage2
+
+
+ROUND 1064
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 19600 soit 17%  à  Personnage2
+
+
+ROUND 1065
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1066
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1067
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 29462 soit 27%  à  Personnage5
+
+
+ROUND 1068
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 19373 soit 17%  à  Personnage2
+
+
+ROUND 1069
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1070
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 18918 soit 16%  à  Personnage2
+
+
+ROUND 1071
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1072
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 29007 soit 27%  à  Personnage5
+
+
+ROUND 1073
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 28780 soit 26%  à  Personnage5
+
+
+ROUND 1074
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 18463 soit 16%  à  Personnage2
+
+
+ROUND 1075
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1076
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 28325 soit 26%  à  Personnage5
+
+
+ROUND 1077
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 18236 soit 16%  à  Personnage2
+
+
+ROUND 1078
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 18009 soit 15%  à  Personnage2
+
+
+ROUND 1079
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 17554 soit 15%  à  Personnage2
+
+
+ROUND 1080
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 17099 soit 15%  à  Personnage2
+
+
+ROUND 1081
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1082
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 27870 soit 25%  à  Personnage5
+
+
+ROUND 1083
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 16872 soit 14%  à  Personnage2
+
+
+ROUND 1084
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1085
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 27415 soit 25%  à  Personnage5
+
+
+ROUND 1086
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 27188 soit 25%  à  Personnage5
+
+
+ROUND 1087
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 16645 soit 14%  à  Personnage2
+
+
+ROUND 1088
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 26733 soit 24%  à  Personnage5
+
+
+ROUND 1089
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 16190 soit 14%  à  Personnage2
+
+
+ROUND 1090
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 15735 soit 13%  à  Personnage2
+
+
+ROUND 1091
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 15280 soit 13%  à  Personnage2
+
+
+ROUND 1092
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 26506 soit 24%  à  Personnage5
+
+
+ROUND 1093
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 26279 soit 24%  à  Personnage5
+
+
+ROUND 1094
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 14825 soit 13%  à  Personnage2
+
+
+ROUND 1095
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 14598 soit 12%  à  Personnage2
+
+
+ROUND 1096
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 25824 soit 24%  à  Personnage5
+
+
+ROUND 1097
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 14143 soit 12%  à  Personnage2
+
+
+ROUND 1098
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 25597 soit 23%  à  Personnage5
+
+
+ROUND 1099
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 13688 soit 12%  à  Personnage2
+
+
+ROUND 1100
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1101
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1102
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 25370 soit 23%  à  Personnage5
+
+
+ROUND 1103
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 13233 soit 11%  à  Personnage2
+
+
+ROUND 1104
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 13006 soit 11%  à  Personnage2
+
+
+ROUND 1105
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1106
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 24915 soit 23%  à  Personnage5
+
+
+ROUND 1107
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 24460 soit 22%  à  Personnage5
+
+
+ROUND 1108
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1109
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 24005 soit 22%  à  Personnage5
+
+
+ROUND 1110
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1111
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 12779 soit 11%  à  Personnage2
+
+
+ROUND 1112
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 12324 soit 10%  à  Personnage2
+
+
+ROUND 1113
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1114
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 23778 soit 22%  à  Personnage5
+
+
+ROUND 1115
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 11869 soit 10%  à  Personnage2
+
+
+ROUND 1116
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1117
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 11414 soit 10%  à  Personnage2
+
+
+ROUND 1118
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1119
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 23323 soit 21%  à  Personnage5
+
+
+ROUND 1120
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 10959 soit 9%  à  Personnage2
+
+
+ROUND 1121
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 22868 soit 21%  à  Personnage5
+
+
+ROUND 1122
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1123
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1124
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 22641 soit 21%  à  Personnage5
+
+
+ROUND 1125
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1126
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1127
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1128
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 10732 soit 9%  à  Personnage2
+
+
+ROUND 1129
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 22186 soit 20%  à  Personnage5
+
+
+ROUND 1130
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 10277 soit 9%  à  Personnage2
+
+
+ROUND 1131
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 10050 soit 8%  à  Personnage2
+
+
+ROUND 1132
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1133
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1134
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1135
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1136
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 21731 soit 20%  à  Personnage5
+
+
+ROUND 1137
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 9595 soit 8%  à  Personnage2
+
+
+ROUND 1138
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 21276 soit 19%  à  Personnage5
+
+
+ROUND 1139
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 9140 soit 8%  à  Personnage2
+
+
+ROUND 1140
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 8685 soit 7%  à  Personnage2
+
+
+ROUND 1141
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 8230 soit 7%  à  Personnage2
+
+
+ROUND 1142
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 21049 soit 19%  à  Personnage5
+
+
+ROUND 1143
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1144
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 7775 soit 6%  à  Personnage2
+
+
+ROUND 1145
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1146
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1147
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1148
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 7548 soit 6%  à  Personnage2
+
+
+ROUND 1149
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 20822 soit 19%  à  Personnage5
+
+
+ROUND 1150
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 20595 soit 19%  à  Personnage5
+
+
+ROUND 1151
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 7321 soit 6%  à  Personnage2
+
+
+ROUND 1152
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1153
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 20368 soit 18%  à  Personnage5
+
+
+ROUND 1154
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 6866 soit 6%  à  Personnage2
+
+
+ROUND 1155
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1156
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1157
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1158
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 19913 soit 18%  à  Personnage5
+
+
+ROUND 1159
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 6411 soit 5%  à  Personnage2
+
+
+ROUND 1160
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 5956 soit 5%  à  Personnage2
+
+
+ROUND 1161
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1162
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 5501 soit 4%  à  Personnage2
+
+
+ROUND 1163
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 5046 soit 4%  à  Personnage2
+
+
+ROUND 1164
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 19686 soit 18%  à  Personnage5
+
+
+ROUND 1165
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 19459 soit 18%  à  Personnage5
+
+
+ROUND 1166
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 19232 soit 17%  à  Personnage5
+
+
+ROUND 1167
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1168
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1169
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1170
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1171
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 4591 soit 4%  à  Personnage2
+
+
+ROUND 1172
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1173
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 4364 soit 3%  à  Personnage2
+
+
+ROUND 1174
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 3909 soit 3%  à  Personnage2
+
+
+ROUND 1175
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1176
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 3682 soit 3%  à  Personnage2
+
+
+ROUND 1177
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 18777 soit 17%  à  Personnage5
+
+
+ROUND 1178
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1179
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1180
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 18550 soit 17%  à  Personnage5
+
+
+ROUND 1181
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1182
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 3455 soit 3%  à  Personnage2
+
+
+ROUND 1183
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 3000 soit 2%  à  Personnage2
+
+
+ROUND 1184
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1185
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1186
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1187
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 18095 soit 16%  à  Personnage5
+
+
+ROUND 1188
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1189
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 17640 soit 16%  à  Personnage5
+
+
+ROUND 1190
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 2545 soit 2%  à  Personnage2
+
+
+ROUND 1191
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 17185 soit 16%  à  Personnage5
+
+
+ROUND 1192
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 16958 soit 15%  à  Personnage5
+
+
+ROUND 1193
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1194
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1195
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 16731 soit 15%  à  Personnage5
+
+
+ROUND 1196
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1197
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 16276 soit 15%  à  Personnage5
+
+
+ROUND 1198
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1199
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 2318 soit 2%  à  Personnage2
+
+
+ROUND 1200
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 1863 soit 1%  à  Personnage2
+
+
+ROUND 1201
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1202
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1203
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1204
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1205
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 1408 soit 1%  à  Personnage2
+
+
+ROUND 1206
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1207
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 953 soit 0%  à  Personnage2
+
+
+ROUND 1208
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 16049 soit 14%  à  Personnage5
+
+
+ROUND 1209
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1210
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1211
+
+Personnage5 attaque -> Personnage2
+Personnage2 ne réussit pas à ce défendre
+Personnage2 perd
+455 de vie
+ il ne reste plus que 498 soit 0%  à  Personnage2
+
+
+ROUND 1212
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1213
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 271 soit 0%  à  Personnage2
+
+
+ROUND 1214
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 15822 soit 14%  à  Personnage5
+
+
+ROUND 1215
+
+Personnage5 attaque -> Personnage2
+mais Personnage2 à réussi à ce défendre
+Personnage2 perd
+227 de vie
+ il ne reste plus que 44 soit 0%  à  Personnage2
+
+
+ROUND 1216
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 15367 soit 14%  à  Personnage5
+
+
+ROUND 1217
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 15140 soit 14%  à  Personnage5
+
+
+ROUND 1218
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 14913 soit 13%  à  Personnage5
+
+
+ROUND 1219
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1220
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1221
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 14686 soit 13%  à  Personnage5
+
+
+ROUND 1222
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1223
+
+l'attaque de Personnage2 sur Personnage5 n'a pas aboutie
+
+
+ROUND 1224
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1225
+
+Personnage2 attaque -> Personnage5
+mais Personnage5 à réussi à ce défendre
+Personnage5 perd
+227 de vie
+ il ne reste plus que 14459 soit 13%  à  Personnage5
+
+
+ROUND 1226
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1227
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1228
+
+Personnage2 attaque -> Personnage5
+Personnage5 ne réussit pas à ce défendre
+Personnage5 perd
+455 de vie
+ il ne reste plus que 14004 soit 13%  à  Personnage5
+
+
+ROUND 1229
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1230
+
+l'attaque de Personnage5 sur Personnage2 n'a pas aboutie
+
+
+ROUND 1231
+
+Personnage2 est eliminer tuer par Personnage5 
+
+
+
+Personnage5 wins
