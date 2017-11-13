@@ -80,7 +80,7 @@ while(true) {
             print("ROUND \(j)\n")
             str = (arrayChara[rd1].damage(Character: arrayChara[rd2]))
             if(str == "-1") {
-                print("\(arrayChara[rd2].name) est eliminer")
+                print("\(arrayChara[rd2].name) est eliminer tuer par \(arrayChara[rd1].name) \n\n")
                 arrayChara.remove(at: rd2)
             }else {
                 print(str)
