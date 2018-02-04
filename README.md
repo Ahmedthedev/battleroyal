@@ -1,8 +1,8 @@
 # battleroyal
 
 
-<iframe src="https://giphy.com/embed/l3diWPgV1OBaUBXbi" width="264" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/l3diWPgV1OBaUBXbi">via GIPHY</a></p>
-
+<a href="https://giphy.com/gifs/l3diWPgV1OBaUBXbi"><img src="https://i.imgflip.com/1at9hq.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/1at9hq"><img src="https://i.imgflip.com/1at9hq.gif" title="made at imgflip.com"/></a>
 run -> 
 ROUND 1
 
