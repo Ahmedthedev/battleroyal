@@ -8,16 +8,17 @@ Installez Docker sur votre machine comme décrit dans la documentation de Docker
 Lancez un conteneur Docker contenant l'une des images binaires TensorFlow.
 
 Le reste de cette section explique comment lancer un conteneur Docker.
-
 Pour lancer un conteneur Docker contenant l'image binaire TensorFlow, entrez une commande au format suivant:
-
 
 ```
   $ docker run -it -p hostPort: conteneurPort TensorFlowImage 
 ```
 
--p hostPort: containerPort est facultatif. Si vous souhaitez exécuter des programmes TensorFlow à partir du shell, ne sélectionnez pas cette option. Si vous souhaitez exécuter les programmes TensorFlow à partir du bloc-notes Jupyter, définissez hostPort et containerPort sur 8888 . Si vous souhaitez exécuter TensorBoard à l'intérieur du conteneur, ajoutez un second indicateur -p , définissant hostPort et containerPort sur 6006.
+-p hostPort: containerPort est facultatif.
 
+Si vous souhaitez exécuter des programmes TensorFlow à partir du shell, ne sélectionnez pas cette option.
+Si vous souhaitez exécuter les programmes TensorFlow à partir du bloc-notes Jupyter, définissez hostPort et containerPort sur 8888 . 
+Si vous souhaitez exécuter TensorBoard à l'intérieur du conteneur, ajoutez un second indicateur -p , définissant hostPort et containerPort sur 6006.
 
 ### Prerequisites
 
